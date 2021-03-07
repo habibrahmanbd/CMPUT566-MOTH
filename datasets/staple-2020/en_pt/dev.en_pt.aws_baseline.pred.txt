@@ -1,0 +1,1500 @@
+prompt_15049b3b99054c230685063e328369a4|well, what did the boss say?
+Bem, o que o chefe disse?
+
+prompt_aacb068d672931817ffd01ea6b0e0609|it's fifty euros per person without the discount.
+São cinquenta euros por pessoa sem desconto.
+
+prompt_68125d9e6cf2f7d6e3b247b33d53bf8b|do you have children already?
+Você já tem filhos?
+
+prompt_9ddb373f4c02ec24608d7789d73618a5|i must go out.
+Tenho que sair.
+
+prompt_33e043560085db61736153782732d04c|are you kicking the table?
+Você está chutando a mesa?
+
+prompt_623d076b6912033bcf26a79a6af3c0ff|i would like a cake, please.
+Eu gostaria de um bolo, por favor.
+
+prompt_c69d0fa7d83083c1baa22487b0bff37b|where is the best place to park at the hotel?
+Qual é o melhor lugar para estacionar no hotel?
+
+prompt_f1004884c3ce2ea1c2716707406eedd3|you can wait here.
+Pode esperar aqui.
+
+prompt_0887b6567ccb76674f594e920a066c0a|is she at home?
+Ela está em casa?
+
+prompt_8d7bde6f5ecf1241ce6c770c2a62e018|where are they going now?
+Onde eles estão indo agora?
+
+prompt_3aa550883ba189fd38ab7cd99a2c1da5|as you wish!
+Como quiser!
+
+prompt_d5941d9082dbce0e38b1c6b89bcca216|which flight is less expensive?
+qual vôo é mais barato?
+
+prompt_e8102687e3d9697cb7a1686e2717d6e0|she cannot believe it.
+Ela não pode acreditar.
+
+prompt_0618629fa31291c3a239bc75b7ef6c05|don't forget to give back my skates!
+Não se esqueça de devolver meus patins!
+
+prompt_12885b75eeeb12e8e968d215ecd5856b|good luck at work.
+Boa sorte no trabalho.
+
+prompt_0a86c80c414e6d7d9faad2494d32f9ca|our class read those books last month.
+A nossa turma leu esses livros no mês passado.
+
+prompt_bfe3d845b1c1336a7f5c0431517ad879|can we go to the bookstore?
+Podemos ir à livraria?
+
+prompt_2f84d45a9fbb5ae2a28ea5afa434f3f7|he takes a private route.
+Ele toma uma rota privada.
+
+prompt_10fac10864fce98aed2d79e4eca0853b|in ireland, it's useful to carry an umbrella.
+Na Irlanda, é útil carregar um guarda-chuva.
+
+prompt_6ae20adf024f6de0abce414cf3d8f2c4|the check, please.
+A conta, por favor.
+
+prompt_8ed47e5f9a627f693a35a2bbcc3f1324|what size are these shorts?
+Que tamanho são esses shorts?
+
+prompt_966e49edd054bedaf63ce569dc92ba3e|he is preparing for a concert.
+Ele está se preparando para um concerto.
+
+prompt_1604325b889c7d18faab2c45961ca5ea|are they sitting together?
+Eles estão sentados juntos?
+
+prompt_45dca8aeac809f6923fe8c68c747a37c|i'm checking my email.
+Estou checando meu e-mail.
+
+prompt_dfbe47f6c1179023b736e36ab942a2cc|did you find anything on the web?
+Encontraste alguma coisa na web?
+
+prompt_bc883f0b8aa3f1973b81438729144f9c|lorena likes to listen to the violin.
+Lorena gosta de ouvir violino.
+
+prompt_f85e0d8b9873324cc49da72097a3bdad|you sign your name.
+Assine seu nome.
+
+prompt_43f05881d2a670aea5410ad1173e07c5|try to find out if everything he said is true.
+tentar descobrir se tudo o que ele disse é verdade.
+
+prompt_611e304b074527cba4e1e19d6b579892|they're taking the bus today.
+Eles vão pegar o ônibus hoje.
+
+prompt_5b868c5e6f2ce094a1fdb921f55c6bde|it is nothing serious.
+Não é nada sério.
+
+prompt_be68067dbf2195a27c6472c519a4f97e|very busy.
+Muito ocupado.
+
+prompt_4dd87390253fb1dbfe3d2280d6db756b|let's go to the zoo.
+Vamos ao zoológico.
+
+prompt_548f1110d6a1f1687b0828b95cf75d0a|it has a small and rich economy.
+tem uma economia pequena e rica.
+
+prompt_aff01cc40396f137b3d396b53ec6f7f8|we're eating cake now.
+Estamos comendo bolo agora.
+
+prompt_905cfa886ce1f375647b3580f5680db1|what should you do when you have an accident?
+o que você deve fazer quando você tem um acidente?
+
+prompt_e629536c983175c053303e335f663dfa|she's recorded that song twice.
+Ela gravou essa música duas vezes.
+
+prompt_f46a2bc88e7714c07b19fba5871eab3f|we wear boots on cold days.
+usamos botas em dias frios.
+
+prompt_9c132f28e4ad883602ea532764de5608|can you be my driver today?
+Você pode ser meu motorista hoje?
+
+prompt_3f82d654b86d633f1ae7f5f823155341|i've always been interested in fashion.
+Sempre me interessei por moda.
+
+prompt_b05897e075db3bceb1732f63d29aa462|don't put on too much makeup.
+Não coloque muita maquiagem.
+
+prompt_70a6e252b38ffbf67126d72c3ffad2e3|she never takes medicine.
+Ela nunca toma remédios.
+
+prompt_1ba2f4af35180832821542412758a439|i have to open everything.
+Tenho que abrir tudo.
+
+prompt_e4c3805986ada98ce60248b38593da8b|joseph lives in new york.
+Joseph mora em Nova York.
+
+prompt_53cf1cf1351d32408673f8729dc6ac2d|it's almost eleven o'clock.
+São quase onze horas.
+
+prompt_259aae8395fd04bb236bba003f38baac|the lawyer works on this floor.
+O advogado trabalha neste andar.
+
+prompt_37884bdbb17394d57afe4a586f9976ba|somebody asked us to be quiet.
+Alguém nos pediu para ficarmos quietos.
+
+prompt_f1baf9714f423fb6b772a0cbe6dfbcbd|does she write for a magazine?
+Ela escreve para uma revista?
+
+prompt_56e443275609c3b2092eae268d7735ae|the white sofa is soft, but the other is hard.
+o sofá branco é macio, mas o outro é duro.
+
+prompt_3f3fbb605b0d68f72f8e756b5805c623|when it's hot, you should drink a lot of water.
+quando está quente, você deve beber muita água.
+
+prompt_e99c004c2bfb89d2a4bb5a7b05ce7910|golf players must practice hitting the ball.
+jogadores de golfe devem praticar bater a bola.
+
+prompt_8d083e0b2b005206dea65e32521cad7f|they have changed the password.
+eles alteraram a senha.
+
+prompt_78216ead7275c5afbabdf792513e5261|what's your last name?
+Qual o seu sobrenome?
+
+prompt_69219ea84d5805d8f58e20161b228d8f|how do they say their names?
+Como é que dizem os seus nomes?
+
+prompt_2c1dce7c8bbe8b61e4f15165638807d8|it is like starting again.
+É como começar de novo.
+
+prompt_785cc85928f3e56111a7335c4ac2a96e|we will not make money with that.
+não vamos ganhar dinheiro com isso.
+
+prompt_89bce4ad2ebc22fca6e404449fb402a0|it's warm here in the spring.
+Está quente aqui na primavera.
+
+prompt_abb8042e0c97662fdf3792834b655e86|i have a terrible toothache.
+Tenho uma terrível dor de dente.
+
+prompt_3cc5863c5254518c8905539cb9d402af|they have followed me all day.
+Eles me seguiram o dia todo.
+
+prompt_5b8d8cd961c151468dd0e85b53561e05|angela thinks the square, silver mirror is cool.
+Angela acha que o quadrado, espelho prateado é legal.
+
+prompt_436bf9fde6cb6150548a00cf9a078298|i have six professors.
+Tenho seis professores.
+
+prompt_174e2e1ad6271dfdee0415518e64476d|are they having lunch downtown today?
+Eles vão almoçar no centro hoje?
+
+prompt_2f20025a267aa1925e4a003d654542b4|the ducks had a meeting with the chickens.
+Os patos tiveram uma reunião com as galinhas.
+
+prompt_659bc3ca522b5e6aea8cf59a4f2dfa23|he bought her a ring.
+Ele comprou um anel para ela.
+
+prompt_9ec430dde8a01b93562d202f21d74edd|the fried mushrooms are fantastic!
+os cogumelos fritos são fantásticos!
+
+prompt_b2648b3db1e27d5d40b9e97cfaf73db6|the steak is served with a salad.
+o bife é servido com uma salada.
+
+prompt_88d15091cfae16baad00d32ad03ff6b9|they go out every friday.
+saem todas as sextas-feiras.
+
+prompt_4e49bc51eff008910317c47fcc86e530|he plays baseball very well.
+Ele joga beisebol muito bem.
+
+prompt_4a779ccb7c19ad55074272f80b7ad0ac|it's too hot!
+Está muito quente!
+
+prompt_0c9a89d0788d2d60349f4c8bfe452caa|she always eats a sandwich for lunch.
+Ela sempre come um sanduíche no almoço.
+
+prompt_1d697316f83c68218de16fba53c0dafc|excuse me, are you mrs. brown?
+Com licença, você é a Sra. Brown?
+
+prompt_9be60701e3084d1b3b7bbbb43d1fd75e|i have a bag.
+Eu tenho um saco.
+
+prompt_a43fdd66a2b2961d8841a8bbd5acfd8e|he is neither a teacher nor a lawyer.
+Ele não é nem professor nem advogado.
+
+prompt_c9a6158f5b7f78c3025e0770b9abe50d|i'm not wearing a jacket.
+Eu não estou usando um casaco.
+
+prompt_f64aea2d9937beb64360f17ab2c61615|we are in search of signs to believe.
+estamos em busca de sinais para crer.
+
+prompt_95cee4726df23156c8e43874b01ef5ce|i'm reading an interesting book.
+Estou lendo um livro interessante.
+
+prompt_a3b4e48d4558f45d641df9a173863a20|i have a colorful shirt.
+Tenho uma camisa colorida.
+
+prompt_27e2b6c60e5322c95547ad6172eefceb|the actor's performance was excellent.
+o desempenho do ator foi excelente.
+
+prompt_adddf4f3ebac9da9e9b9b504ea3e395a|do you think i should buy this ring?
+Acha que devo comprar este anel?
+
+prompt_c5f7876b55b0bd791b92ca587d0ba6ff|luis has an egg.
+Luis tem um ovo.
+
+prompt_e49ae83c46c59566281f6a0699c82624|a small cup.
+Um copo pequeno.
+
+prompt_6daa966631d60fcfd3fb255da3391309|he decided to choose a red cellphone.
+ele decidiu escolher um celular vermelho.
+
+prompt_ca33bb3bb4d91ebe64d8209257f271d1|we may go to work.
+Podemos ir trabalhar.
+
+prompt_3324bbf2b67f99bb952518afc530e431|science is the most difficult subject for me.
+ciência é o assunto mais difícil para mim.
+
+prompt_10574902aca89457b6f2e1766ee053ed|he continues walking.
+Ele continua andando.
+
+prompt_5a5e9954be50995d9fb82b9de323aa89|his clothes are very old.
+As roupas dele são muito velhas.
+
+prompt_f28cb673be0fc10dc608289e12799866|my computer screen is bigger than his.
+A tela do meu computador é maior que a dele.
+
+prompt_9e5b48d1906ea87d72d966d2665c65e9|i will be paying with a credit card.
+Vou pagar com cartão de crédito.
+
+prompt_486f2135ffbf27382b264224f82e99c3|did you make a mistake?
+Você cometeu um erro?
+
+prompt_c2c7bf1cf972108c043ef497970f70da|the boys will be eating rice with chicken at my house.
+Os rapazes vão comer arroz com frango na minha casa.
+
+prompt_7fcf0020fdd6f60ef8fb4c142135532a|that is a lot to consider.
+isso é muito a considerar.
+
+prompt_69c393432d200e02dd1cfb33d51c2733|what disease does he have?
+Que doença ele tem?
+
+prompt_966538f95744666d4a912e39e412aaf1|i need new shoes.
+Preciso de sapatos novos.
+
+prompt_4d3f62bf7cb670405244b80c7ba88795|i will arrive saturday.
+Chegarei no sábado.
+
+prompt_aaf34c2cae60cde5953ae0cada10facf|she finished work fifteen minutes ago.
+Ela terminou o trabalho há 15 minutos.
+
+prompt_8a2ed95370badfc309f366e7e8467104|i walk towards them.
+Eu ando em direção a eles.
+
+prompt_0520eb00cb266f6101e3770bb07bd3cd|wow, i can't believe that!
+Uau, eu não posso acreditar nisso!
+
+prompt_db259981b89a67333b9db9908ec4380e|where did you buy the chemistry textbook?
+Onde você comprou o livro de química?
+
+prompt_810c067587b8db78a08eeb8190454fd7|all right, thanks!
+Tudo bem, obrigado!
+
+prompt_09f239182b26a3080f861bb8e132d801|our house is half a mile from here.
+A nossa casa fica a 800 metros daqui.
+
+prompt_bc00361222f78eb54b39397558cdc6da|where should we put the trash?
+Onde devemos colocar o lixo?
+
+prompt_61cd8d9314c7cdec048afec4c9cc2b36|under the house.
+debaixo da casa.
+
+prompt_50c150bb5eb589e180a3600d1bf440b9|we speak chinese and english.
+Falamos chinês e inglês.
+
+prompt_f7c973d0072fdbe66c91705a426cb819|does your eye hurt?
+Dói-te o olho?
+
+prompt_346a29267c2d758252ce13deeaa67c5c|i can't wait.
+Mal posso esperar.
+
+prompt_c1de7a7af3c58c9756e34e9187791b91|the restaurant is past the bus station.
+O restaurante é depois da estação de ônibus.
+
+prompt_88e986ab303122942c7f426d6411e1b1|they support the cause.
+eles apoiam a causa.
+
+prompt_870662a5b59682af013ef0394f7d61f2|this cup is clean.
+Este copo está limpo.
+
+prompt_80982cf345cd9a88665936d2a8a4fe5f|when did their airplane take off?
+Quando é que o avião deles decolou?
+
+prompt_753816935d3f33a7637fcc8d91b3f4cb|this hotel does not serve lunch.
+este hotel não serve almoço.
+
+prompt_e895eb0939808cd47e967a801159b242|thirteen, fourteen, fifteen.
+Treze, catorze, quinze.
+
+prompt_c2666f039b605cc6c61571d58e318237|we save money to open a restaurant.
+economizamos dinheiro para abrir um restaurante.
+
+prompt_216faef75a130e9e50c7770f23d292e5|i'm fine, thanks.
+Estou bem, obrigado.
+
+prompt_b4f47b7689839788d34877896de80330|young and beautiful.
+jovem e bonita.
+
+prompt_23d0e34c639d712ead0ee6cfb57ab551|she heard the sound of the river.
+Ela ouviu o som do rio.
+
+prompt_2508c760bbdb80c28d863ddd2bb83687|we've already seen both of those places.
+Já vimos os dois lugares.
+
+prompt_c902d0e6e23470f88bb5a4b515e2cac1|the phrase is very long.
+a frase é muito longa.
+
+prompt_de204ef2cc38452f13dd3b9d89371259|he's angry because he has waited for you all morning.
+Ele está zangado porque ele esperou por você a manhã toda.
+
+prompt_e884415e2039a76b87b626cac5e139a1|where's the bus stop?
+Onde fica o ponto de ônibus?
+
+prompt_88837ae61b26f945c6f283d0641f5319|can i take a taxi to the hotel?
+Posso pegar um táxi até o hotel?
+
+prompt_057b7d083aa7e8ea7734fb7212a30378|it rained hard last night.
+Choveu muito ontem à noite.
+
+prompt_6719b294564e6185a2c90d797d4da1c7|he comes from a village in china.
+Ele vem de uma aldeia na China.
+
+prompt_2e83e1a0e0246ea641d3c7c6739d2254|i'm going to study in france next year.
+Vou estudar na França no próximo ano.
+
+prompt_e0e0871b2e68c5b8458870f77d38ac6f|really bad.
+Muito ruim.
+
+prompt_133fffbddcf8875e49aa580b5e877dc0|all of the doctors are nice.
+Todos os médicos são legais.
+
+prompt_757f8a961864200323a186d62096755a|where does he want to go?
+Para onde ele quer ir?
+
+prompt_58c92a14efd48fbcc66b16946b0a029d|do you know a good doctor?
+Conhece um bom médico?
+
+prompt_aee6f6171a985d857ccd674ccab17575|this hat is too big.
+Este chapéu é muito grande.
+
+prompt_459c453553569c638da6cd51159b9c08|you deliver the food.
+Você entrega a comida.
+
+prompt_a06681478316b7c3ca16e63d4b71db93|hello, how are you?
+Olá, como vai?
+
+prompt_d93ca6c2ad6a42d21f2f25700f577ed2|thanks, see you later!
+Obrigado, até logo!
+
+prompt_d59bf20fd7678405affbbb9d6e54e335|which sport is the most dangerous?
+qual esporte é o mais perigoso?
+
+prompt_7eac9f7aabec1caf39aa08590f050a53|that's not real gold, is it?
+Isso não é ouro de verdade, é?
+
+prompt_15a0ec57ab996695b649bdb864075d31|the dog has something in its mouth.
+O cão tem algo na boca.
+
+prompt_6c9e9d45ada593bb88253c9159dc6175|was there a light in the bathroom?
+Havia uma luz no banheiro?
+
+prompt_49d64b349e7d5f1f7489d62cfed4ef69|are you in this line?
+Você está nessa fila?
+
+prompt_0f2cda2ad3baeecb53febe1b68822b0f|you need to work hard.
+Você precisa trabalhar duro.
+
+prompt_59fc297bdc1693700b4fdc1f7945b741|what's your first name?
+Qual o seu primeiro nome?
+
+prompt_5931a3f955239c07c2eb0ca1d9a1d527|my husband has a degree in history.
+Meu marido é formado em história.
+
+prompt_448aa471d6dfe46d4275c8ac356a3f34|bring the old battery to the store.
+traga a bateria antiga para a loja.
+
+prompt_223c9aed43645bc0f5551d154fe2cd41|everybody wants to drive a cleaner car.
+Todo mundo quer dirigir um carro mais limpo.
+
+prompt_7ecf5abdd8f11ac2414651e2c90bb8c3|you guys can leave your bags on these shelves.
+Vocês podem deixar suas malas nessas prateleiras.
+
+prompt_b7609417c7de288d7586338a5fd00cc8|we work together.
+Trabalhamos juntos.
+
+prompt_306c2748f0b4b6f7241f7eaa38be827e|what does he look like?
+Como é que ele se parece?
+
+prompt_739d120421171691368cfd5363ce79bf|make sure that this is the right address.
+certifique-se de que este é o endereço certo.
+
+prompt_411273a88f3169833d28797b367de210|there's a clock in my room.
+Tem um relógio no meu quarto.
+
+prompt_6304362badc38c0393cbb4119ad04d6e|i will give you the money tomorrow.
+Eu dou-te o dinheiro amanhã.
+
+prompt_ea7e3b0c99a590894d077670fd12f216|if your aunt allows it.
+se sua tia permitir.
+
+prompt_bde3595ebafed50a7caae67fbbbbb421|he put the stamps in his cigarette case.
+Ele colocou os selos na cigarreira.
+
+prompt_cc9239db1854f849955482ca401f6442|he covered his face because of the wind.
+Ele cobriu o rosto por causa do vento.
+
+prompt_05ccfb27bb07e78fafa39ef9c08ceb16|music is my daughter's favorite subject.
+A música é o assunto favorito da minha filha.
+
+prompt_5b67bd17f7d2d8d401f0c2a408b0db92|let's ask a salesperson.
+Vamos perguntar a um vendedor.
+
+prompt_bd9f2ea73e004251c54dd777a7ad1771|the balloons are filled with water.
+os balões estão cheios de água.
+
+prompt_5a037e00b443ed3eeec36137aa7ea1ad|there's nothing under the sofa.
+Não há nada debaixo do sofá.
+
+prompt_95dbad407dece6b4f08e082daa250907|i don't remember the address.
+Não me lembro do endereço.
+
+prompt_a85399749aeee3e853d5702269f9fb36|were you sleeping during the meeting?
+Você estava dormindo durante a reunião?
+
+prompt_9d66ea537f9427cbc0a0e0812da0866a|the computers in the laboratory work at high speed.
+os computadores no laboratório trabalham em alta velocidade.
+
+prompt_079788d532fd2a6adaf9b37d015968df|she doesn't remember me anymore.
+Ela não se lembra mais de mim.
+
+prompt_a383e2704e9ff0b08d3fe3e695e86471|the blanket does not fit in that bag.
+O cobertor não cabe nesse saco.
+
+prompt_df38f5e38de43ae22e501f8152d28204|my friend's house.
+A casa do meu amigo.
+
+prompt_b65735ca71b0d1fc97f0e4893e46eb62|where does she work?
+Onde é que ela trabalha?
+
+prompt_058b2634ed6d2998618750c2518d21a2|running is boring.
+Correr é chato.
+
+prompt_3714b1d962c27c8cb4fc892335a0f93f|i heard an owl last night.
+Ouvi uma coruja ontem à noite.
+
+prompt_e5a8d8123ebfde63d65805f09fd0e7db|he was out of line at the party.
+Ele passou dos limites na festa.
+
+prompt_7facc372d5eee5b9e40f54ec00baa213|the youth eat in the garden.
+os jovens comem no jardim.
+
+prompt_250a9c70ac371e88162a5a59f16d3275|the driver was not hurt.
+o motorista não se machucou.
+
+prompt_345f42338b0fc6b1689796deeab3b8b3|which jeans do you like?
+Qual jeans você gosta?
+
+prompt_653303c0865e6b9c88710176dff41cd5|you will feel better tomorrow.
+Você vai se sentir melhor amanhã.
+
+prompt_ad14a96ca7f10cd750f34ed0c235dc43|are there rats in this building?
+Há ratos neste edifício?
+
+prompt_c1ab8b5ae7a18f3e5296e9623c268373|let's ask for a discount.
+Vamos pedir um desconto.
+
+prompt_1a3ab90556cd2a05a2390ad4b195def6|his house is in the valley.
+Sua casa é no vale.
+
+prompt_c7b2f0c295ec7f4d8655798171ce8dcc|when can i pick up my order?
+Quando posso pegar meu pedido?
+
+prompt_446b6c92f3316462717d988ebc6c0dfc|could i get another spoon?
+Pode me dar outra colher?
+
+prompt_1a5478211958bc83f2987281fd52b2fc|put your coat on.
+Veste o casaco.
+
+prompt_10253dac3eb7988a41d020eabcf6af02|the bus is turning right.
+O ônibus está virando à direita.
+
+prompt_9505edbbd16eaa1fc66e243904e5ae9a|the meal was not perfect.
+a refeição não foi perfeita.
+
+prompt_ed5bf6d42645142af4f2f8b45f27d618|i am rosa, what is your name?
+Eu sou Rosa, qual é o seu nome?
+
+prompt_1195026c24871313afe2d1f83f20495a|we need a contract.
+Precisamos de um contrato.
+
+prompt_2e9bd0eb4fed0f8e640285e6b9db71e4|oh, my feet hurt.
+Oh, meus pés doem.
+
+prompt_320fb99e926414d15e19a5d0a1c35a5e|i need new boots.
+Preciso de botas novas.
+
+prompt_092d4fab322365774836933037ccfc16|i thought that she would not come anymore.
+Pensei que ela não viria mais.
+
+prompt_94ccfb8ced6e4fcaebc7fe3cd30d5db0|they will present the plan.
+eles vão apresentar o plano.
+
+prompt_e84ec10b0f94a38fc81846f693c3d774|he would be happy to hear that.
+Ele ficaria feliz em ouvir isso.
+
+prompt_22dcd1e8539cc3e5d652c524f059bca7|the bathroom floor.
+o chão da casa de banho.
+
+prompt_763497326622787a549d6886a48979cf|are you from portugal?
+Você é de Portugal?
+
+prompt_ac083701e77af393c30e4b02f922ee36|he is taking time off from work.
+Ele está tirando uma folga do trabalho.
+
+prompt_65dfdd9b5ad0e740c8c813a0bb548cf3|i'll take the lighter suitcase.
+Vou levar a mala mais leve.
+
+prompt_1ab2072604ab2c9df98d8b4c20c1810c|they stayed in morocco for a few days.
+Eles ficaram em Marrocos por alguns dias.
+
+prompt_2978929f62856cf2684aec1255a1f28d|they live five miles away.
+Eles vivem a 8 km de distância.
+
+prompt_9b22df1992f04e17e109d303eafc8846|i want to live in italy.
+Quero viver na Itália.
+
+prompt_d87c9924e79d1c42cb790d9aeed9f623|i got an extra dessert for free.
+Tenho uma sobremesa extra de graça.
+
+prompt_778e191e2ac31fb164a01fd0147c95f7|my glasses were broken when i fell.
+Meus óculos estavam quebrados quando eu caí.
+
+prompt_eb6cdef4f53f8b165a09fa3cc8689257|we lost all of our luggage!
+Perdemos toda a nossa bagagem!
+
+prompt_b41c5072917daf8f40e4051e76cdca30|unfortunately, my husband has to work on sunday.
+Infelizmente, meu marido tem que trabalhar no domingo.
+
+prompt_190fed6dbd296dd83df88157b31e4aba|go downstairs for the party.
+Desça para a festa.
+
+prompt_6fb7d4bacb73aff773f6b13bfa2854fc|she's not buying anything.
+Ela não está comprando nada.
+
+prompt_3569b06403817c20b7b1ddd9589801a1|she enjoyed dancing with her husband.
+Ela gostava de dançar com o marido.
+
+prompt_eb059b7299826c0ddd00f0752462e098|i need a favor.
+Preciso de um favor.
+
+prompt_719058280f12752b0bb3a091d741d3a6|make sure the light in the bedroom is off.
+Certifique-se de que a luz do quarto está apagada.
+
+prompt_5f2f5ea4517499eb7fcef1d50d9155cf|i was waiting for my friend.
+Estava à espera do meu amigo.
+
+prompt_1188241edb798c82285ad2f95a0402c2|the queen got better immediately.
+A rainha melhorou imediatamente.
+
+prompt_3cd1c57f8bbe109f1d5a3d1e68f24d84|they've lived in australia for a long time.
+Viveram na Austrália há muito tempo.
+
+prompt_ed516e92cbf63e29929a7b67f951b452|his ex-wife will talk to him by saturday.
+A ex-mulher dele falará com ele no sábado.
+
+prompt_c2e5cfde5ca1427bb97a7726e114b18c|was fernanda invited?
+Fernanda foi convidada?
+
+prompt_686fc9aa6ec9c5f73922913f780572f9|duo loves flying over the river.
+A dupla adora voar sobre o rio.
+
+prompt_5fe6d82f4b70864791977d33678963eb|what time do they eat lunch?
+A que horas almoçam?
+
+prompt_5ec17331fcb201e1b25b3a9479874046|the signal comes from a large town.
+O sinal vem de uma cidade grande.
+
+prompt_2eb65dc0dab769e025dca51c9228f6d6|did you get any toys?
+Conseguiu algum brinquedo?
+
+prompt_06947a8cda6b3b5ed47064ea9217ae65|my favorite colors are blue and green.
+minhas cores favoritas são azul e verde.
+
+prompt_5b341ea6858ce5f70c220b4081ac9b6a|when do you need to give back the skateboard?
+Quando você precisa devolver o skate?
+
+prompt_02b7823d609544d8f9eba3172de83031|now that you know the truth it is possible for you to feel better.
+Agora que você sabe a verdade, é possível que você se sinta melhor.
+
+prompt_ea4667660b1cf85db46a8cf9d76d7236|you have tried to live like them.
+Você tentou viver como eles.
+
+prompt_53472fd4a4d0df8ae5b6bedd25b16e7e|the heat will turn off by itself.
+o calor desligará sozinho.
+
+prompt_4a361d6b337009be1e3834530e858f00|we have to work tonight.
+Temos que trabalhar esta noite.
+
+prompt_b2a9c09ad18a9613ea5b2185d62190c9|look at the sign on the door.
+Olhe a placa na porta.
+
+prompt_72a135cad71d3d0e19eaa3833338d744|the ducks ran so fast!
+Os patos correram tão rápido!
+
+prompt_60e53a21507f8878c7cb560075e69d54|she had a healthy baby.
+Ela teve um bebê saudável.
+
+prompt_2f1c4fa43a2cb7ad12de6bd6c8de28d8|i visited my grandmother one year ago.
+Visitei minha avó há um ano.
+
+prompt_c36782c309ead5cbd24c8d31079e68cc|he put the keys in his bag last night.
+Ele colocou as chaves na bolsa ontem à noite.
+
+prompt_2abe6b1484d7e1bf9f05c61d64746de2|he hurt his arm when he threw the ball.
+Ele machucou o braço quando jogou a bola.
+
+prompt_e3404011ed5107b859d2b8054e45ca4b|how much cheese do you need?
+Quanto queijo você precisa?
+
+prompt_30660b5ff0bc10d2f04bef6133b1d80f|i know what his name is.
+Eu sei qual é o nome dele.
+
+prompt_2dbe33ad10e8499d79706aa11da755ba|does that include breakfast?
+Isso inclui café da manhã?
+
+prompt_20f1073e5575bc00dcbd59220836f4aa|i'd like some vegetables.
+Eu gostaria de alguns vegetais.
+
+prompt_bc3a20806272c9d1c117e1a1e9b54ee6|they had led the country.
+eles tinham liderado o país.
+
+prompt_ad9cc677470b9497ac9ea3dfb0a7e814|go upstairs.
+Vai lá para cima.
+
+prompt_8b159c4112fdb36c4c6ab4931ec1e441|just a moment, please.
+Só um momento, por favor.
+
+prompt_9505ed113df8ffd1d5fe3a729ef454e1|what time is the flight to the island?
+A que horas é o vôo para a ilha?
+
+prompt_6b0ca8c3d00c0eaf6ebf882fd4adf99f|they will stay at the hotel.
+eles vão ficar no hotel.
+
+prompt_178fe233e4cfdeafd4667f19524fc809|where are they going afterward?
+Onde eles vão depois?
+
+prompt_26b090a14ff99ada7adacdfc3994fa49|do you eat onion?
+Você come cebola?
+
+prompt_f900f81a17db2a5e34ff1efedab4cc7e|we jumped over the chain.
+saltamos sobre a corrente.
+
+prompt_e118522e2c032dbf422bc1b40c7b21b1|do you like to fly?
+Você gosta de voar?
+
+prompt_6d7e3d45a5d20f87ef9177ab33b35a3e|some of the workers aren't here.
+Alguns dos trabalhadores não estão aqui.
+
+prompt_185df6e37bba5a80467e27d13b136563|what were you drinking that night?
+O que você estava bebendo naquela noite?
+
+prompt_967e1389d5cecacf2bef64c24a2b0d09|all of the passengers were sleeping during the flight.
+todos os passageiros estavam dormindo durante o vôo.
+
+prompt_95770f7b4fc2c7f1e82e60f2fec54002|how many eggs does fred want in his omelet?
+Quantos ovos o Fred quer na omelete?
+
+prompt_77ad7ab45d0a74f0ed6e1588b60ed43e|we didn't go to the same college.
+Nós não fomos para a mesma faculdade.
+
+prompt_c4b60f16b28a2a307455e805fb8886a8|i want to buy eight glasses.
+Quero comprar oito copos.
+
+prompt_aafb8ed80dbc974cf20db8ad8b7ec0d3|the actress has lived in california since 2013.
+a atriz vive na Califórnia desde 2013.
+
+prompt_453a80b19e38998d9f027a317c41125d|what will the winner receive?
+O que o vencedor receberá?
+
+prompt_c692de4c70c4ecf446a619bf38cb4c2b|was your flight delayed?
+O seu voo atrasou?
+
+prompt_7bc07714fd7a989b7ef81fa428007d14|he will say it is impossible.
+Ele dirá que é impossível.
+
+prompt_3bc98a25ef518042ba38a8455ccd4cf3|i needed to create a new profile.
+Eu precisava criar um novo perfil.
+
+prompt_a5551000f8d51b1403bae050277a9c5d|turn off the light when you leave the room.
+Apague a luz quando sair da sala.
+
+prompt_fb4cb1483260e5134ea99fad791fe3a2|i never met them.
+Nunca os conheci.
+
+prompt_9592550d7046ba9ec47189dc96302b32|i took a shower this morning.
+Tomei banho esta manhã.
+
+prompt_1da7bb9bd0489586ec07cf912c1d5a3c|what were you doing that night at my house?
+O que estava fazendo naquela noite na minha casa?
+
+prompt_bb88206489587de6675528c978bff2d7|first, go straight on this road.
+Primeiro, siga em frente por esta estrada.
+
+prompt_696d36801ed2538eb46eab0a80b4319d|you will sleep in the guest room.
+Você vai dormir no quarto de hóspedes.
+
+prompt_8d613c089a276c1146eda052111c7794|my friend hears a flute.
+Meu amigo ouve uma flauta.
+
+prompt_3c8a0deb68ca749ab8a59635f9deaadf|the girls take the books off the table.
+As meninas tiram os livros da mesa.
+
+prompt_d53c2e803ebcf9dc659ebaa838f1e53a|john has the easiest job.
+John tem o trabalho mais fácil.
+
+prompt_bffabcb2dc1851b35d8dd9543f144041|where were you born?
+Onde você nasceu?
+
+prompt_7ba350c36c5c5ada3c06c396032caeab|is that made of chocolate?
+Isso é feito de chocolate?
+
+prompt_a68e44f29841c02f72413452b269479c|it is ten degrees this morning.
+São 10 graus esta manhã.
+
+prompt_0520e951e6163f3457c00ab6363e527c|my grandfather was a soldier during the war.
+Meu avô foi soldado durante a guerra.
+
+prompt_7142241d1dac218600a51c112ae3f874|do you want to meet my parents?
+Quer conhecer meus pais?
+
+prompt_50828854dd941f6050d19955a923ba34|how much bread does the boy eat?
+Quanto pão é que o rapaz come?
+
+prompt_b50893b4863048d97685fbc1bf7e3b8a|is this emma's doll?
+Esta é a boneca da Emma?
+
+prompt_2b517fe46c538d08956ab316ef4e5031|i really liked the ice cream.
+Eu realmente gostei do sorvete.
+
+prompt_b4d76d32a737606c188b69ef3ed3ccd7|could i look at a menu?
+Posso ver o cardápio?
+
+prompt_62e55dd386e1a75d7e26a2ce162ee60a|i would like a cup of tea.
+Eu gostaria de uma xícara de chá.
+
+prompt_8efc14abb55ae7175024375cf5b0d983|well, i don't believe that.
+Bem, eu não acredito nisso.
+
+prompt_4b2880ff481a57a578de2ea90c20fb77|i'm going to visit my family in december.
+Vou visitar minha família em dezembro.
+
+prompt_4ad06645b353abe70059d7fd0718c982|he is responsible for the meter.
+ele é responsável pelo medidor.
+
+prompt_1dd41424ac474abb7cdc76330cfba886|they design the shoes.
+Eles projetam os sapatos.
+
+prompt_b0192041f2adb73582698ef7e74c3ac5|what does she drink?
+O que ela bebe?
+
+prompt_9c1975ea2cf3d7d502cb5e4412471e3b|we have light blue paint.
+Temos tinta azul claro.
+
+prompt_e7b2f3d2182386120f1451a39661ca3d|i want to see a bird.
+Quero ver um pássaro.
+
+prompt_1b92ed08ab96d5acbe4c5cee608840e3|we're flying to canada.
+Estamos voando para o Canadá.
+
+prompt_cfea6b141050b4632734219ed28c24c2|there were a lot of teenagers at the concert.
+Havia muitos adolescentes no concerto.
+
+prompt_4fcf0f75678b4a09454c20cef1bad675|i love playing music with a group.
+Adoro tocar música com um grupo.
+
+prompt_c1ae9612357cc1b9e1863f47e05ee788|they stayed with a family of turtles for ten days.
+Eles ficaram com uma família de tartarugas por dez dias.
+
+prompt_1c3e2238f9425bce507d773725c864f8|they announce his book.
+anunciam o livro dele.
+
+prompt_73b9035f71aceee1ee1bdc35df2582a5|what does she have?
+O que ela tem?
+
+prompt_6623f3315a2914223a60f33ff9dc84bb|you should add more oil.
+você deve adicionar mais óleo.
+
+prompt_15de61a023ad250376e07ba031c5003b|show us your pictures.
+Mostre-nos suas fotos.
+
+prompt_93b3a1d3606ef52717e6f081af6f83c7|we work together at a bank.
+Trabalhamos juntos em um banco.
+
+prompt_2e65427c6b599679752936c3e3d3dd15|can i have a cigarette?
+Posso fumar um cigarro?
+
+prompt_e5a82f08cb2556d583123a369ef82c48|they don't have any extra beds.
+Eles não têm camas extra.
+
+prompt_66c636c1b3d87ef171e57d0fe437b53c|where is the station?
+Onde fica a estação?
+
+prompt_49d7680cadd976cb5ec4476b9bba7e84|he will get back on tuesday.
+ele vai voltar na terça.
+
+prompt_2e2ca42e6034d80f46940cdec7356053|what does your wife want to eat?
+O que sua esposa quer comer?
+
+prompt_312bc1d4fc3f3dbccb28a1947f7f5280|do they have a house?
+Eles têm uma casa?
+
+prompt_e8356c457914eb2bcf0ff1980199984d|i hurt my leg while i was playing soccer.
+Machuquei minha perna enquanto jogava futebol.
+
+prompt_63692b98a632041ed9e3771327d70501|the dark gray tights look good with that dress.
+As calças cinzentas escuras ficam bem com esse vestido.
+
+prompt_6a5b8ad232fea3b45b8ee51fab6a5f13|my favorite band is on the radio.
+Minha banda favorita está no rádio.
+
+prompt_90a30f696ee071a457cad7d013a540e6|a half cup of oil.
+meia xícara de óleo.
+
+prompt_fcf12ccc219172101d4779eb8fc488e2|which paint do you like?
+Que tinta você gosta?
+
+prompt_26a354888b581476a64001711cb6e7ca|she likes you very much.
+Ela gosta muito de você.
+
+prompt_952928ae087e521d6332254c22ab50bc|i've always loved geography.
+Sempre adorei geografia.
+
+prompt_43f272cc0060408a976ab036e3d545bb|can i try on that dress?
+Posso experimentar esse vestido?
+
+prompt_d69288e0abfe24dc011a1bcaae913175|the bear did not drink your beer.
+o urso não bebeu sua cerveja.
+
+prompt_91dd3ee25aa23f8773261db50dcea69b|it is a new application.
+é uma nova aplicação.
+
+prompt_40a538a6d3f35c1e99a33bb19013b221|the meal was excellent.
+A refeição foi excelente.
+
+prompt_0abf898bcfca0d285d32eca6bc432fa1|my girlfriend wants to go to salvador.
+Minha namorada quer ir para Salvador.
+
+prompt_37d1a387354c46cf033ab87547443ab3|there is strength in numbers.
+há força nos números.
+
+prompt_d9b87f84149abb89f95be5502237bb13|is this restaurant famous?
+Este restaurante é famoso?
+
+prompt_2320c8e55635457d08c09c936f495967|what do i have money for?
+Para que tenho dinheiro?
+
+prompt_0b5ba285bf5ad7c9cbe6cd753bc64b79|excuse me, do you speak english?
+Com licença, você fala inglês?
+
+prompt_10f974e7f7a1e77c861555b4f2191589|why don't you lie down for a few minutes?
+Por que não se deita por alguns minutos?
+
+prompt_9bc37c0e815f20dc5132a5a74b999e2c|i need to find the bridge to the castle.
+Preciso encontrar a ponte para o castelo.
+
+prompt_cff70ee3c183cf7b2dd858836bb0ed1f|owls can hear very well.
+As corujas podem ouvir muito bem.
+
+prompt_25e91a5fd36f52a5e67d358be0b2a700|does he have a coat?
+Ele tem um casaco?
+
+prompt_b8e5d7d5599edf6fb0b6da222d763ca9|everything in the store is on sale today!
+tudo na loja está à venda hoje!
+
+prompt_25ee09e079aeadcfd23333622f35aeea|do you have a jacket?
+Você tem um casaco?
+
+prompt_3e29048aeb7cdd23f3ec93b4e12a7124|she had just walked home.
+Ela tinha acabado de ir para casa.
+
+prompt_3ddb41b79d8eaa2fec544e4f62020a5d|how many times have they entered this competition?
+Quantas vezes eles entraram nesta competição?
+
+prompt_07fe058fffe3ea3febf35fa1d5ebca44|patricia studies music.
+Patricia estuda música.
+
+prompt_013f6a7a2a0e73e5680529a5fc7e5bf5|you don't need to pay.
+você não precisa pagar.
+
+prompt_e59fcc8a445fb57c6f51aa8cf575866f|i'm not working right now.
+Não estou trabalhando agora.
+
+prompt_a1b78afe83571ff79279ec7c4828ce27|is this your plate?
+Este prato é seu?
+
+prompt_a9d57dd9ef028e103fc2a5c9d0f050f5|this sofa is the perfect color!
+este sofá é a cor perfeita!
+
+prompt_b4bde4f4dd40f461515bf756d1ed9ec6|he is too young to understand the consequences.
+Ele é muito jovem para entender as consequências.
+
+prompt_20f7b2a13a05106dce5861c8dda71610|i want to take the guests to the beach.
+Quero levar os convidados para a praia.
+
+prompt_26404835112b0d46bbccf4d336ff854a|i brought some cash for the taxi.
+Trouxe dinheiro para o táxi.
+
+prompt_a7ac4e6ab54e6112ae4e8a2af340f4de|i work at a restaurant.
+Eu trabalho em um restaurante.
+
+prompt_fde487e6fa2e8472755bddb875d17e59|it was nearly midnight when they arrived.
+Era quase meia-noite quando eles chegaram.
+
+prompt_1088058c09291d9283d368c8b4835163|which one did she choose?
+Qual delas ela escolheu?
+
+prompt_aedd2f62dddcf91039d0ab8836e2e8c3|how much alcohol is in this drink?
+quanto álcool tem nesta bebida?
+
+prompt_6af689db73b0964a591e034d2096df11|he's bigger and stronger than us.
+Ele é maior e mais forte do que nós.
+
+prompt_39a40682fbb669562e2e003e08f818db|he does not like the music i listen to.
+Ele não gosta da música que eu ouço.
+
+prompt_a2d892f3d4ded311f15da9c69806c7f9|it's the best movie of the year.
+É o melhor filme do ano.
+
+prompt_08b9236c80c84973d632b05dc964556e|we will get there in two hours.
+Chegaremos lá em duas horas.
+
+prompt_87783b25668e4a699875c0ad327cc801|the hotel staff were paid well.
+os funcionários do hotel foram bem pagos.
+
+prompt_c5c9bbcdafbc03352178b59db0f4f6a8|when do you eat breakfast?
+Quando você toma café da manhã?
+
+prompt_8b4bb6f75fb2ebe6fcb25e28858db9db|where do you come from?
+De onde você vem?
+
+prompt_067f24901cb2708d2ed24540f3a9581c|does she drink her coffee black or with cream?
+Ela bebe café preto ou com creme?
+
+prompt_fed6240a8ff7f9c04337b589b2d2f868|she wants to get everything except the hat.
+Ela quer tudo, menos o chapéu.
+
+prompt_61dc639fc639413628109bc639e44562|why is the table painted in red?
+Por que a mesa está pintada de vermelho?
+
+prompt_16370927c76e266e06d6f76b8aafd7e3|those boots are mine.
+Essas botas são minhas.
+
+prompt_51d80c4646856d6ce01ebe494cd367d7|when do you play volleyball?
+Quando você joga vôlei?
+
+prompt_bfaa9014ade4686ba757eb2fbd30e11b|good luck with your new job.
+Boa sorte com o seu novo emprego.
+
+prompt_ecf96f03ecf578e6967cedbd9030c9fb|we got a set of dishes for them.
+Temos um conjunto de pratos para eles.
+
+prompt_c60d3d57b83429e17cd0dcc197d64443|the fall is pretty interesting.
+A queda é muito interessante.
+
+prompt_f847a3064bb5c6f1faf5274f9ce5222d|see you next week, take care!
+Vejo-te na próxima semana, cuide-se!
+
+prompt_b68c9bbe522e7423b2b5beefc8250500|the results are still under analysis.
+os resultados ainda estão em análise.
+
+prompt_779ba1568b00893cef894e8fc8d496aa|there are snacks in the fridge.
+Há lanches na geladeira.
+
+prompt_60aabe45500cd22745ac3cddab1fd457|i would leave the desk in the office.
+Eu deixaria a mesa no escritório.
+
+prompt_8ed9419edb4478f0f80aab74521f10fa|my sister only eats healthy food.
+Minha irmã só come comida saudável.
+
+prompt_bc5129c82b21a93ba32d4009c876d708|the lawyer thought the actor had died.
+O advogado pensou que o ator tinha morrido.
+
+prompt_c04b398953a42cd6ffcb0919fb182edc|does the photographer sell this photo in color?
+O fotógrafo vende esta foto a cores?
+
+prompt_79bade7da72e16b5b405cc48727bac2d|the opening of the library is tomorrow.
+A abertura da biblioteca é amanhã.
+
+prompt_1d24c4dacaddfc9756f5825cd52ae944|there was only one chair at that restaurant.
+Só havia uma cadeira naquele restaurante.
+
+prompt_7ab8e985b413ef3dac5b387826698e3d|i want to win again.
+Quero ganhar de novo.
+
+prompt_65cde477863bb0977e7d4783f754a35a|are we going to the play tomorrow?
+Vamos à peça amanhã?
+
+prompt_90cc668b6c2ad74ddb46029403247abf|do you know his phone number?
+Sabe o número de telefone dele?
+
+prompt_69f5b507b989818bac03c81f855c1d23|the animal is running through the forest.
+o animal está correndo pela floresta.
+
+prompt_c99b083c879adb2c513137a7e8bb0765|i need something to eat.
+Preciso de algo para comer.
+
+prompt_da71b86b16e314b1d7d484f756878395|he had not heard me.
+ele não me tinha ouvido.
+
+prompt_a89937f1ca97875fec19e522203c3f4e|let's go snowboarding soon.
+Vamos fazer snowboard em breve.
+
+prompt_589ec53743cfa74c645b1ff9564ce503|for how much will she sell them?
+por quanto ela vai vendê-los?
+
+prompt_85a92b12f4eae596fd88781eed9f759f|unfortunately, my grandson has a stomachache.
+Infelizmente, meu neto está com dor de estômago.
+
+prompt_fad4df9e8426e80909dd82f4abad909d|i need to study for the history exam.
+Preciso estudar para o exame de história.
+
+prompt_5b7306edc44ec29cef71929b00d2b46b|we work at a school.
+Trabalhamos numa escola.
+
+prompt_950ffd9e59cf79d98b6600979503fcce|he wakes up at 6 a.m.
+Ele acorda às 6 da manhã.
+
+prompt_e861e0677fcddcc57ee1c813c636abc8|something is wrong.
+Algo está errado.
+
+prompt_66243ebccb93e469eb021e20784d6c35|which mug is hers?
+Qual caneca é dela?
+
+prompt_504c78bd18ff4e2a5e82e78b908ca5df|click twice to open the file.
+clique duas vezes para abrir o arquivo.
+
+prompt_a229556c6207ad85a8912e3c59993534|the mall will be on the left, before the stadium.
+O shopping estará à esquerda, antes do estádio.
+
+prompt_629a85f1f2c4a7ee4ad58d2018614e30|that was an act of love.
+Isso foi um ato de amor.
+
+prompt_9497339c987ee69dbdb352d45cc380a1|my uncle's life was hard.
+A vida do meu tio era difícil.
+
+prompt_353c79616fbbed9bf6f4fddc2b5623a0|i heard an advertisement on the radio.
+Ouvi um anúncio no rádio.
+
+prompt_4e0dadd11c468e355fe59d1023275959|this artist might become famous.
+este artista pode tornar-se famoso.
+
+prompt_0732516b10b3e8f5bffe79c9ef1b791e|i'm really hungry.
+Estou com muita fome.
+
+prompt_176a8d42f6fbc16f9ffdf96e347da16e|my father is a famous lawyer.
+Meu pai é um advogado famoso.
+
+prompt_c0c8c371943f184e58ef8dd743fba846|where is the restaurant?
+Onde é o restaurante?
+
+prompt_4d908b7e26e25f688fb8760d61036f9d|when is the next presentation?
+Quando é a próxima apresentação?
+
+prompt_7ecf72e39c6664e9ffefad64529d5a47|i listen except when he speaks.
+Eu escuto, exceto quando ele fala.
+
+prompt_b67dd91cd64a36c73149f1ace91f8f91|today i eat with the judge.
+Hoje eu como com o juiz.
+
+prompt_7983b57910af6ebb9e59bc9306c90bec|i want to touch my foot.
+Quero tocar no meu pé.
+
+prompt_525a8e75286683e40d6dbc5e46ddaac9|what are you going to do first?
+O que você vai fazer primeiro?
+
+prompt_b140fa5011b9a696991067f147e39fee|her sister plays baseball.
+A irmã dela joga beisebol.
+
+prompt_8549c5ad768aee27988b96797792e06a|do you have a tv?
+Você tem uma TV?
+
+prompt_5ba82b353ea40bada399d88d2d218f86|we must cross this river.
+Temos de atravessar este rio.
+
+prompt_8f923691757c86d8fdbc4170e5eb8bda|she cannot ride her bike very fast.
+ela não pode andar de bicicleta muito rápido.
+
+prompt_8653be1e4564d8db7e2ddc315ae95774|i can't see them.
+Eu não posso vê-los.
+
+prompt_1f9f062bf5134cfcb11b37d40d10d922|it is a serious question.
+É uma pergunta séria.
+
+prompt_e99f8e43ba6c2a6262dc38421cfbfd26|where is the train station?
+Onde é a estação de trem?
+
+prompt_982a997e3b354e05a09ad1bc781590ae|i'm taking a european history class.
+Vou fazer uma aula de História Europeia.
+
+prompt_4d40e246829e427e7978f0aedd7274d8|she likes her occupation.
+Ela gosta da sua ocupação.
+
+prompt_ce488a33caa790496067653e47f68598|i have never worked at an airport.
+Nunca trabalhei num aeroporto.
+
+prompt_b11a94194ba12794c6a9e8dab030e895|we have three bathrooms.
+Temos três casas de banho.
+
+prompt_ed2d9cb1679b816f4975fac7f0901a0e|they are walking too fast.
+Eles estão andando muito rápido.
+
+prompt_87ff9ea47fe4e27dc181110ac1cc0c88|do you have a sister?
+Você tem uma irmã?
+
+prompt_d97b524d13e289936c77caa118455e85|the king couldn't see the path in the fog.
+o rei não podia ver o caminho no nevoeiro.
+
+prompt_3cc6af047bd34ab336239056baa8cdd4|why is it personal?
+Por que é pessoal?
+
+prompt_3f3c70bafcec9551f9cbe064d893f8f4|my finger hurts.
+Meu dedo dói.
+
+prompt_b5690b257bbcb3d6217139da2345d5b3|fernanda studies at a university near here.
+Fernanda estuda em uma universidade perto daqui.
+
+prompt_a1466af960002e903d76b86d39287d52|well, we've already had cake and ice cream.
+Bem, já comemos bolo e sorvete.
+
+prompt_5f0a9c16043bd91a3e33b813f25d0ba5|it is three o'clock.
+São três horas.
+
+prompt_45efb51742c7d03b479a0e270255beba|they were lost for two days.
+Eles ficaram perdidos por dois dias.
+
+prompt_dcbab798d07a6c08c77812986a65f05f|mrs. brown, is your husband here?
+Sra. Brown, seu marido está aqui?
+
+prompt_fe70342c4d6c52c2e214942ea9ac34e5|i was skating when i fell and hurt myself.
+Eu estava patinando quando caí e me machuquei.
+
+prompt_ecb932cbf6a2153c6599d4a314378d44|he wants us to take the bus.
+Ele quer que peguemos o ônibus.
+
+prompt_aa4d92a05d77f676f0c6f55cec4af27e|my parents always buy healthy food.
+Meus pais sempre compram comida saudável.
+
+prompt_d69352ee42bbb500b3f1573d914649a7|i used too much oil.
+Eu usei muito óleo.
+
+prompt_31cdeeea3f737db974ec6e0b74b6a172|that country has a different currency.
+que o país tem uma moeda diferente.
+
+prompt_a7001fd9e33b56dba05d0da61b38f0de|this breakfast is not good.
+Este café da manhã não é bom.
+
+prompt_850185d7a34b927f644919fb6e5a6a19|he's looking at you.
+Ele está olhando para você.
+
+prompt_056350df281de567f5b52e9da6e4622a|my sister is happy.
+Minha irmã está feliz.
+
+prompt_1c6455d9b2117db351932af935a52b63|you ask the same thing.
+Você pergunta a mesma coisa.
+
+prompt_30e8425691a170c4b952dd14ef170168|the boy looks at her and smiles.
+o rapaz olha para ela e sorri.
+
+prompt_829ed6a98751554acd2160d737b60f3d|can i have more bread?
+Posso comer mais pão?
+
+prompt_3b98332aad07931597cef698d1e13784|we thank the architect.
+Agradecemos ao arquiteto.
+
+prompt_2fdaa404c8c8aa3b9e0bfc5030fd1e2a|we're not going anywhere tonight.
+Não vamos a lugar algum esta noite.
+
+prompt_cad5f9b9afe65a60d33766ddaac693c5|i never wear makeup.
+Eu nunca uso maquiagem.
+
+prompt_a7462e833017eedfab6482571d63b566|did you work in the same office?
+Trabalhou no mesmo escritório?
+
+prompt_787f59cf614b270ea8d720c75992eccd|what color is the bird?
+Qual é a cor do pássaro?
+
+prompt_2a056713b7b5f5ed4793fad322eb770c|which bus stop is closer?
+Qual ponto de ônibus fica mais perto?
+
+prompt_40e5e91204af7c5e4de70ef8bae12025|i enjoy fishing with them.
+Gosto de pescar com eles.
+
+prompt_847a4261735a7d1b1034c49b7ad60b2c|she goes to class every monday.
+Ela vai às aulas todas as segundas-feiras.
+
+prompt_299354a50570865fab3a6c68b2c2e809|she felt ok yesterday.
+Ela se sentiu bem ontem.
+
+prompt_1100e8840a5b6780f3de14ba6ddafd04|we sat next to each other.
+sentámo-nos ao lado um do outro.
+
+prompt_17832b4047b9649c5373479db1d0c156|we live in the age of technology.
+vivemos na era da tecnologia.
+
+prompt_8382f4b48e7ec2e40044a09deac6fffb|we studied german in school.
+Estudamos alemão na escola.
+
+prompt_bf0d15c2ffc307eff7e2aee32c9e0fe1|the leader gave a speech yesterday.
+o líder fez um discurso ontem.
+
+prompt_e8d794ebaaba51825c4b0b1f1f5ec208|can you tell me the price of these shorts?
+Pode me dizer o preço desses shorts?
+
+prompt_aba3d31f9613fa708c601cf6527d97e9|the new school will offer programs for children.
+a nova escola vai oferecer programas para crianças.
+
+prompt_bbe227f789089b87d46cbc09e8dd1471|the sheep eat quite a lot of fast food.
+as ovelhas comem um monte de fast food.
+
+prompt_74f5887f2221dfb46d354c2dfee2819d|we have pets.
+Temos animais de estimação.
+
+prompt_c5f0f79cf43471169f9914c9f2c683a5|that hat is expensive.
+Esse chapéu é caro.
+
+prompt_f4fc0418bbd2d053c365b9f09716c081|michael lost one of his gloves.
+Michael perdeu uma de suas luvas.
+
+prompt_a914503fdef245b11e6ca69385caa9ca|where's our taxi?
+Cadê nosso táxi?
+
+prompt_2869f5d479a3f10a0fcc99782844f432|this is the hospital which i was born in.
+Este é o hospital em que nasci.
+
+prompt_0831e90f9a4878736ad4f52cbd2de240|while we were sleeping, someone stole our bikes.
+Enquanto dormíamos, alguém roubou nossas bicicletas.
+
+prompt_fbe83f7d51f3f172c174ebc1ea060432|my father did not drink wine yesterday.
+Meu pai não bebeu vinho ontem.
+
+prompt_946e7f7df066e765cd2cfb25d540accb|i'm playing tennis this summer.
+Vou jogar tênis neste verão.
+
+prompt_2fefede28a7a678fa6a709b679153f40|are we going to eat dinner at 7 p.m.?
+Vamos jantar às 19h?
+
+prompt_32d724d4cdab4280a3e795cb86bc3347|there are further details on the last page.
+há mais detalhes na última página.
+
+prompt_3f6e3f4f8c3093fa9d61311dbad6e1ca|those pillows belong to my roommate.
+Esses travesseiros pertencem ao meu colega de quarto.
+
+prompt_433a00fec3fd5c2c17cbebf734e19287|his favorite color is green.
+sua cor favorita é verde.
+
+prompt_bbd478b1c7f41df17901c03a23799631|we live in a house.
+Vivemos numa casa.
+
+prompt_c22f541631281de72530da05d6a65d7e|she's not in her regular seat.
+Ela não está no lugar normal.
+
+prompt_da7ad618866f9a4700316de60ca30ee7|i want to tell him everything.
+Quero contar tudo a ele.
+
+prompt_cb7193b5ba69a0c039016e8e5a21b020|you nearly missed the appointment.
+Você quase perdeu a consulta.
+
+prompt_599ee94faad81c93bd79b33926f8e7ec|his father had died of the same illness.
+seu pai tinha morrido da mesma doença.
+
+prompt_349ff5a1896697e897d57820d9f8eb7b|you need a blood test.
+Você precisa de um exame de sangue.
+
+prompt_a93ca0af59c04358a35b68729a12f4c7|i will stay one night.
+Ficarei uma noite.
+
+prompt_3ddd3a63966d0b170395219065e976b2|can you explain this concept?
+você pode explicar este conceito?
+
+prompt_75a6f43a39286ddf0a02f49123a8b975|a steak sandwich.
+Um sanduíche de bife.
+
+prompt_75ba7223e3ed67dd6f24d2fa31b94a6d|i'm going to take a class in january.
+Vou ter uma aula em janeiro.
+
+prompt_2fc4f30cfcf344aea7c02d9479228915|very tall.
+Muito alto.
+
+prompt_240170bee693c767af32eb45d48da07e|oh, i ate too many sweets!
+Oh, eu comi muitos doces!
+
+prompt_1831a58ba4cb2ecb27bc6902f0c5eca5|don't click on the ad.
+não clique no anúncio.
+
+prompt_9bb524e377ac024f39284ed12af3f1b2|she thinks she's in love with that guy.
+Ela acha que está apaixonada por aquele cara.
+
+prompt_8d1ec5cc93e8566de6853a8154dc5ddd|she hurt herself while she was playing hockey.
+Ela se machucou enquanto jogava hóquei.
+
+prompt_bede0242028f0460e35914dabbfe4886|there is wi-fi at this café, isn't there?
+Há wi-fi neste café, não há?
+
+prompt_c7706f9db4363fdbe556b05a32d94c74|i cook for the community.
+Eu cozinho para a comunidade.
+
+prompt_f7d9ba45bfdb3064f4457c50ec77c490|do you like these jeans?
+Gostas destes jeans?
+
+prompt_9980e4b774012a9662dfe9ee9ae1a5d0|he has won many awards.
+ele ganhou muitos prêmios.
+
+prompt_89be33d0cec9cca710f2bf8ddcfc6e5d|where did they work?
+Onde é que eles trabalhavam?
+
+prompt_f459baace4b8f0556caee4a02bae7148|do they work every day?
+Eles trabalham todos os dias?
+
+prompt_48af4f86659e038fcec1d36b032b1780|do you remember that trip?
+Você se lembra daquela viagem?
+
+prompt_e1ffb3ed187f3b4f6f7c05c5925402bd|i am in search of new knowledge.
+Estou em busca de novos conhecimentos.
+
+prompt_c378bae3efdcdeaf23b3d1921220cfe5|the weather was nice in morocco.
+O tempo estava bom em Marrocos.
+
+prompt_c6c0c12da78a7e67ded7d19bdc989d19|i'm happy to stay longer.
+Fico feliz por ficar mais tempo.
+
+prompt_f9702a088a3f9f9a0e7abcbb6249b45b|eat pasta whenever you want.
+comer macarrão sempre que quiser.
+
+prompt_683b8af907d93d4c28670d319ba64340|i don't know the way to the stadium.
+Não sei o caminho para o estádio.
+
+prompt_cf4d8d0a406507a25589a429ec7beb71|the professor usually writes on the blackboard.
+o professor costuma escrever no quadro negro.
+
+prompt_42b76104a15c1cda8c8b2d59bb5d5bdc|we cannot hear the music.
+Não podemos ouvir a música.
+
+prompt_122c0ca8711bd2435fd16e55000fd8c5|do you know how important your grades are?
+Sabe o quão importantes são as suas notas?
+
+prompt_1ce560d26896f95b57e9bfdc1623513b|this is what will change us.
+Isto é o que nos vai mudar.
+
+prompt_12503c418e6dfd80b5f43dafde72543a|was there someone outside her room?
+Havia alguém fora do quarto dela?
+
+prompt_f6dc6e811f619b985a0b2bd3ab0d94eb|we have two girls.
+Temos duas garotas.
+
+prompt_0dca02415fa688cdc351e9405e61b8ce|it'll be difficult.
+Vai ser difícil.
+
+prompt_5a5201a7277ad1b09a81ea1b4c2265aa|mom said you should eat fewer cookies.
+Mamãe disse que você deveria comer menos biscoitos.
+
+prompt_711ce63a7a4a625a1acfde802acc215c|he drank a glass of wine, and then he went to sleep.
+Ele bebeu um copo de vinho, e depois foi dormir.
+
+prompt_02bdd0de3970e7c90aece3a2799fe916|my roommate is studying african religions.
+Meu colega de quarto está estudando religiões africanas.
+
+prompt_60dfd8713b51aa5ee9784f533f475cc8|my father has been to australia twice.
+Meu pai esteve na Austrália duas vezes.
+
+prompt_cca8f1187d5e1d501243ab000b013184|our families live near here.
+As nossas famílias vivem aqui perto.
+
+prompt_7d609c686ffdb8c17bd05528c7c7ffbf|we were driving until midnight last night.
+Estávamos dirigindo até meia-noite de ontem.
+
+prompt_e9af8ecf87866d982c90dd9b95fed422|my department has a staff of 30 people.
+Meu departamento tem uma equipe de 30 pessoas.
+
+prompt_74da3329285e41478d2f14868e519eb0|my brother is happy.
+Meu irmão está feliz.
+
+prompt_67467fda872756f3048b34f5e19cbafc|he slept for only four hours last night.
+Ele dormiu apenas quatro horas ontem à noite.
+
+prompt_c663eef20fc6c600ab9b572a53a9c646|i do not get up early on fridays.
+Não me levanta cedo às sextas-feiras.
+
+prompt_f1d562c0491711601802541aba8eee5e|i will give you an answer in a day or two.
+Darei uma resposta em um dia ou dois.
+
+prompt_02849106661086f9d767081d934686d8|she's an excellent singer.
+É uma excelente cantora.
+
+prompt_f6170caaee929c7af492f222f145bae8|what a beautiful garden you have!
+que belo jardim você tem!
+
+prompt_e4435dd76b636249bcf44baa88e11dd1|which blouse do you like?
+Qual blusa você gosta?
+
+prompt_fce04dfafee3388ea89431af282907e3|our team never wins.
+A nossa equipa nunca ganha.
+
+prompt_8a64df0e6e525dd2d35fdfbe97f37dae|i could not find my glasses.
+Eu não consegui encontrar meus óculos.
+
+prompt_a21091ab97baf92a843443160c1df849|what kind of fish do you have?
+Que tipo de peixe você tem?
+
+prompt_dac5d5ab335bbe2e057a3aa07d0069a7|there are enough pears for everyone.
+há peras suficientes para todos.
+
+prompt_9c79a526b3d47c34e4fa09e643848f2b|i've never learned to play a musical instrument.
+Nunca aprendi a tocar um instrumento musical.
+
+prompt_e7d3dfe57d34259711745a1351f15a99|i need to cook the beef.
+Preciso cozinhar a carne.
+
+prompt_e0a0faad1928487c2e1aa97380201c1b|who do you visit?
+Quem você visita?
+
+prompt_57db126ed7045f38ece3d7456d7330bf|it took me an hour and a half to get home.
+Levei uma hora e meia para chegar em casa.
+
+prompt_9e95266f353feb31f145713c9c906415|those shoes are made in italy.
+Esses sapatos são feitos na Itália.
+
+prompt_d4fe80883d6366222e32233ae563a1a8|what is he wearing today?
+O que ele está vestindo hoje?
+
+prompt_67549f87c24f8b6391572c2844610c6b|i will introduce you to my girlfriend.
+Vou apresentar-te à minha namorada.
+
+prompt_5a0119eaaf190e44e7e90f35c1f1d6d2|these are the books that i finished.
+Estes são os livros que eu terminei.
+
+prompt_656dc1fad9354513e2c13e92d2ba6d9c|what does your mom look like?
+Como é a tua mãe?
+
+prompt_2ce5e0ce6d4a4d5f4735492529f94f30|they took care of the baby.
+Eles cuidaram do bebê.
+
+prompt_c5fd120dbffe4e3188bdb5405cc80a22|click in the box.
+clique na caixa.
+
+prompt_b6718e0c9de984f88290445b46ee5e22|the situation is worse than we thought.
+a situação é pior do que pensávamos.
+
+prompt_63cce1f1a7551cdf988d913618c8aeb4|this price is for children five and over.
+este preço é para crianças de cinco anos e mais.
+
+prompt_aaa8ab8b23b101f00d14b280f97bffc5|the girl always wants to win.
+A garota sempre quer ganhar.
+
+prompt_d5ed01dc40e1ef1a3c9405fac10afb3c|we generally eat fish on friday.
+geralmente comemos peixe na sexta-feira.
+
+prompt_009dba641d3707b90f0dcb6a7394b9bf|the burgers are fantastic!
+Os hambúrgueres são fantásticos!
+
