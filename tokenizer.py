@@ -8,6 +8,7 @@
 
 import tensorflow as tf
 import pickle
+import os
 
 def read_dataset(file_path):
     #Open from .txt files
@@ -60,11 +61,19 @@ for i in range(1, 4):
     print(y_sequence_matrix)
     print("----------END X and Y----------")
 
+    directory1 = 'tokenized/modified_dataset/data'+str(i)+'/English'
+    if not os.path.exists(directory1):
+        os.makedirs(directory1)
+
+    directory2 = 'tokenized/modified_dataset/data'+str(i)+'/Portuguese'
+    if not os.path.exists(directory2):
+        os.makedirs(directory2)
+
     print("---------DUMP X As Pickle------")
-    dump_pickle('tokenized/modified_dataset/data'+str(i)+'/English', x_sequence_matrix)
+    dump_pickle(directory1, x_sequence_matrix)
     print("---------DUMP X END------------")
 
     print("---------DUMP Y As Pickle------")
-    dump_pickle('tokenized/modified_dataset/data'+str(i)+'/Portuguese', y_sequence_matrix)
+    dump_pickle(directory2, y_sequence_matrix)
     print("---------DUMP Y END------------")
 
