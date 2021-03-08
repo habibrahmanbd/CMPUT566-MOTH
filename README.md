@@ -3,6 +3,7 @@
 ### Requirements:
  - tensorflow
 ### Directory Structure
+```
 .
 ├── data_fn.py
 ├── datasets
@@ -27,7 +28,7 @@
 │           ├── English
 │           └── Portuguese
 └── tokenizer.py
-
+```
 ### Data Argumentation 1
 ```
 ├── tokenized
