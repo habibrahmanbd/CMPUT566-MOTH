@@ -7,13 +7,13 @@
 ##################################################################
 
 import tensorflow as tf
-import hickle as pickle
+import pickle
 import os
 import string
 import re
 from numpy import array, argmax, random, take
 import pandas as pd
-from keras.preprocessing.sequence import pad_sequence
+import keras
 import matplotlib.pyplot as plt
 pd.set_option('display.max_colwidth', 200)
 
@@ -44,6 +44,8 @@ def cleaning_punctuation_and_uppercase(sentence_list):
     return sentence_list
 
 def visualize_length_of_sentences(senX, senY):
+    senX = [len(sen.split()) for sen in senX]
+    senY = [len(sen.split()) for sen in senY]
     length_df = pd.DataFrame({'English': senX, 'Portuguese': senY})
     length_df.hist(bins = 30)
     plt.show()
@@ -58,7 +60,7 @@ def encode_text_to_sequences(tokenizer, max_sen_length, sentence_list):
     # integer encode sequences
     seq = tokenizer.texts_to_sequences(sentence_list)
     # pad sequences with 0 values
-    seq = pad_sequences(seq, maxlen=max_sen_length, padding='post')
+    seq = keras.preprocessing.sequence.pad_sequences(seq, maxlen=max_sen_length, padding='post')
     return seq
 
 def dump_pickle(file_path, data, file_val):
@@ -66,6 +68,8 @@ def dump_pickle(file_path, data, file_val):
         pickle.dump(data, f)
         f.close()
 
+#from google.colab import drive
+#drive.mount('/content/gdrive')
 
 
 for i in range(1, 4):
@@ -78,15 +82,15 @@ for i in range(1, 4):
     port_sen = cleaning_punctuation_and_uppercase(port_sen)
 
     #Plot Sentences
-    visualize_length_sentences(eng_sen, port_sen)
+    visualize_length_of_sentences(eng_sen, port_sen)
 
     #tokenize
     eng_tok = tokenizer(eng_sen)
     port_tok = tokenizer(port_sen)
 
     #Max word length in Sentence
-    max_eng_sen_word_length  = 10
-    max_port_sen_word_length = 10
+    max_eng_sen_word_length  = 6
+    max_port_sen_word_length = 7
 
     #Vocab Size
     eng_vocab_size = len(eng_tok.word_index)+1
@@ -99,5 +103,4 @@ for i in range(1, 4):
     #print
     print(eng_encoded_seq)
     print(port_encoded_seq)
-
 
