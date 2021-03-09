@@ -82,7 +82,7 @@ for i in range(1, 4):
     port_sen = cleaning_punctuation_and_uppercase(port_sen)
 
     #Plot Sentences
-    visualize_length_of_sentences(eng_sen, port_sen)
+    #visualize_length_of_sentences(eng_sen, port_sen)
 
     #tokenize
     eng_tok = tokenizer(eng_sen)
@@ -103,4 +103,14 @@ for i in range(1, 4):
     #print
     print(eng_encoded_seq)
     print(port_encoded_seq)
+
+    #dump as pickle
+    directory_eng = os.path.dirname('tokenized/English/')
+    directory_port = os.path.dirname('tokenized/Portuguese/')
+    if not os.path.exists(directory_eng):
+        os.makedirs(directory_eng)
+    if not os.path.exists(directory_port):
+        os.makedirs(directory_port)
+    dump_pickle(directory_eng, eng_encoded_seq, i)
+    dump_pickle(directory_port, port_encoded_seq, i)
 
