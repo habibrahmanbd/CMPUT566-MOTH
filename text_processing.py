@@ -89,8 +89,8 @@ for i in range(1, 4):
     port_tok = tokenizer(port_sen)
 
     #Max word length in Sentence
-    max_eng_sen_word_length  = 6
-    max_port_sen_word_length = 7
+    max_eng_sen_word_length  = 15
+    max_port_sen_word_length = 15
 
     #Vocab Size
     eng_vocab_size = len(eng_tok.word_index)+1
