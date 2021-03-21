@@ -4,7 +4,12 @@
 #######################################################################
 
 import numpy as np
+import pandas as pd
 from random import choices
+
+
+#######################################################################
+# Functions:
 
 # Creates one of the three modified datasets.
 # dataset_path: the directory where the raw data is.
@@ -72,12 +77,56 @@ def create_modified_dataset(dataset_path, mode):
 
 
 
+# Creates Amazon's Answers.
+# dataset_path: the directory where the raw data is.
+def create_amazon_baseline(dataset_path):
+    with open(dataset_path,'r',encoding="utf-8") as f:
+        lines = pd.read_table(f,delimiter='|', dtype='U',header=None)
+    
+    modified_dataset = pd.DataFrame('__',index=range(500),columns=['promt','translation'], dtype='U' )
 
+    i = 0
+    j = 0
+    for line in lines.itertuples(index=False,name=None):
+        if line[0].startswith('prompt_'):
+            modified_dataset.iat[j,0] = line[1]
+            modified_dataset.iat[j,1] = lines.iat[i+1,0]
+            j += 1
+        i += 1
+
+    
+    return modified_dataset
+
+# Creates Worst Translation Baseline Answers.
+# dataset_path: the directory where the raw data is.
+def create_worst_baseline(dataset_path):
+    with open(dataset_path,'r',encoding="utf-8") as f:
+        lines = pd.read_table(f,delimiter='|', dtype='U',header=None)
+    
+    modified_dataset = pd.DataFrame('__',index=range(500),columns=['promt','translation'], dtype='U' )
+
+    max_length = lines.shape[0]-1
+
+    i = 0
+    j = 0
+    for line in lines.itertuples(index=False,name=None):
+        if line[0].startswith('prompt_'):
+            promt = line[1]
+        elif i == max_length or lines.iat[i+1,0].startswith('prompt_'):
+            modified_dataset.iat[j,0] = promt
+            modified_dataset.iat[j,1] = lines.iat[i,0]
+            j += 1
+        i += 1
+
+    
+    return modified_dataset
+
+#######################################################################
 # Test code
 
-# output = create_modified_dataset('CMPUT566-MOTH/datasets/staple-2020/en_pt/train.en_pt.2020-01-13.gold.txt', 3)
+# output = create_worst_baseline('CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt')
 
-# print(output[0:100])
+# print(output)
 # print(output.shape)
 
 # print("End")
@@ -85,7 +134,7 @@ def create_modified_dataset(dataset_path, mode):
 
 
 
-# Save Datasets
+# Save Modified Datasets
 
 # output = create_modified_dataset('CMPUT566-MOTH/datasets/staple-2020/en_pt/train.en_pt.2020-01-13.gold.txt', 1)
 
@@ -106,3 +155,19 @@ def create_modified_dataset(dataset_path, mode):
 # print("3 done")
 
 # print("End")
+
+
+
+# Save Amazon Basline Dataset
+
+# output = create_amazon_baseline('CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.aws_baseline.pred.txt')
+
+# output.to_csv('CMPUT566-MOTH/datasets/baseline_datasets/amazon.txt',sep="|",encoding='utf-8',index=False,header=False)
+
+
+
+# Save Worst Basline Dataset
+
+# output = create_worst_baseline('CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt')
+
+# output.to_csv('CMPUT566-MOTH/datasets/baseline_datasets/worst.txt',sep="|",encoding='utf-8',index=False,header=False)
