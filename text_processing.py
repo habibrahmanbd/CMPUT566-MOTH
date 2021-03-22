@@ -43,12 +43,18 @@ def cleaning_punctuation_and_uppercase(sentence_list):
     sentence_list  = [(sen.translate(str.maketrans('', '', string.punctuation))).lower() for sen in sentence_list]
     return sentence_list
 
-def visualize_length_of_sentences(senX, senY):
+def visualize_length_of_sentences(title, senX, senY):
     senX = [len(sen.split()) for sen in senX]
     senY = [len(sen.split()) for sen in senY]
     length_df = pd.DataFrame({'English': senX, 'Portuguese': senY})
     length_df.hist(bins = 30)
-    plt.show()
+    plt.xticks(range(0, 15, 1)
+    plt.xlabel('#Word', fontsize=18)
+    plt.ylabel('#Sentences', fontsize=16)
+    fig = plt.figure()
+    fig.suptitle(title, fontsize=20)
+    fig.save(title+".jpg")
+    #plt.show()
 
 def tokenizer(sentence_list):
     tok = tf.keras.preprocessing.text.Tokenizer()
@@ -82,7 +88,7 @@ for i in range(1, 4):
     port_sen = cleaning_punctuation_and_uppercase(port_sen)
 
     #Plot Sentences
-    #visualize_length_of_sentences(eng_sen, port_sen)
+    #visualize_length_of_sentences("modified dataset "+str(i), eng_sen, port_sen)
 
     #tokenize
     eng_tok = tokenizer(eng_sen)
