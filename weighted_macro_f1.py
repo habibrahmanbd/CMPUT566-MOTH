@@ -17,11 +17,17 @@ def weighted_false_negative(false_negative):
     return wfn
 
 def weighted_recall(weighted_true_positive, weighted_false_negative):
-    weighted_recall_value = (weighted_true_positive / (weighted_true_positive + weighted_false_negative))
-    return weighted_recall_value
+    wr = (weighted_true_positive / (weighted_true_positive + weighted_false_negative))
+    return wr
 
-def weighted_f1(s):
-    return 1
+def weighted_precision(weighted_true_positive, weighted_false_positive):
+    wp = (weighted_true_positive/(weighted_true_positive + weighted_false_positive))
+    return wp
+
+def weighted_f1(weighted_true_positive, weighted_false_positive, weighted_false_negative):
+    pr = weighted_precision(weighted_true_positive, weighted_false_positive)
+    rc = weighted_recall(weighted_true_positive, weighted_false_negative)
+    return (2 * ((pr * rc) / (pr + rc)))
 
 def weighted_macro_f1(S):
     wmf1 = 0
