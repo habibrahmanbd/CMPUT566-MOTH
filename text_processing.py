@@ -48,7 +48,7 @@ def visualize_length_of_sentences(title, senX, senY):
     senY = [len(sen.split()) for sen in senY]
     length_df = pd.DataFrame({'English': senX, 'Portuguese': senY})
     length_df.hist(bins = 30)
-    plt.xticks(range(0, 15, 1)
+    plt.xticks(range(0, 15, 1))
     plt.xlabel('#Word', fontsize=18)
     plt.ylabel('#Sentences', fontsize=16)
     fig = plt.figure()
