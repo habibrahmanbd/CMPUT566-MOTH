@@ -39,8 +39,9 @@ def cleaning_punctuation_and_uppercase(sentence_list):
 
 
 # Creates one of the three modified datasets.
-# baseline_path: the directory where the baseline data is.
-# reference_path: the directory where the reference baseline data is.
+# eng_sen_list: List of english sentences.
+# model_translations: List of model's Portuguese translations of those english sentences.
+# reference_path: the directory where the reference data is (i.e. CMPUT566-MOTH/datastes/testing_datsets/dev.txt).
 def calculate_bleu_score(eng_sen_list,model_traslations,reference_path):
     baseline_data = [eng_sen_list, model_traslations]
     reference_data = split_input_target(read_dataset(reference_path))
