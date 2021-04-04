@@ -37,42 +37,37 @@ def dump_pickle(file_path, data, file_val):
 
 
 if __name__=="__main__":
-    cur_dir = 'tokenized/'
-    eng_encoded_seq = load_pickle(cur_dir+'English/1.pickle')
-    port_encoded_seq = load_pickle(cur_dir + 'Portuguese/1.pickle')
-    print(eng_encoded_seq)
-    print("English: "+str(len(eng_encoded_seq[0])))
-    print(port_encoded_seq)
-    print("Protuguese: "+str(len(port_encoded_seq[0])))
+    directory_eng = os.path.dirname('tokenized/English/')
+    directory_port = os.path.dirname('tokenized/Portuguese/')
+    for i in range(1, 4):
+        print("------------------LOAD----------------")
+        val_eng_enc_seq = load_pickle(directory_eng+'/validation_enc_seq'+str(i)+'.pickle')
+        val_port_enc_seq = load_pickle(directory_port+'/validation_enc_seq'+str(i)+'.pickle')
 
-    #devide 80:20 as train test from X(English)
-    train_eng_enc_seq  = eng_encoded_seq[0:3200]
-    test_eng_enc_seq = eng_encoded_seq[3200:]
+#        test_eng_enc_seq = load_pickle(directory_eng+'/test_enc_seq'+str(i)+'.pickle')
+#        test_port_enc_seq = load_pickle(directory_port+'/test_enc_seq'+str(i)+'.pickle')
 
-    #devide 80:20 as train test from Y(Portuguese)
-    train_port_enc_seq = port_encoded_seq[0:3200]
-    test_port_enc_seq = port_encoded_seq[3200:]
-    '''
-    eng_vocab_size =  2437 #should take as argument or pickle
-    port_vocab_size = 3183 #should take as argument or pickle
-    max_eng_sen_word_length = 15 #should take as argument or pickle
-    max_port_sen_word_length = 15 #should take as argument or pickle
-    model = define_model(eng_vocab_size, port_vocab_size, max_eng_sen_word_length, max_port_sen_word_length, 512)
-    rms = optimizers.RMSprop(lr=0.001)
-    model.compile(optimizer=rms, loss='sparse_categorical_crossentropy')
+        train_eng_enc_seq = load_pickle(directory_eng+'/train'+str(i)+'.pickle')
+        train_port_enc_seq = load_pickle(directory_port+'/train'+str(i)+'.pickle')
 
-    file_name = 'model.rnn.train'
-    checkpoint = ModelCheckpoint(file_name, monitor='val_loss', verbose=1, save_best_only=True, mode='min')
+        eng_vocab_size =  load_pickle(directory_eng+'/eng_vocab'+str(i)+'.pickle')
+        port_vocab_size = load_pickle(directory_port+'/port_vocab'+str(i)+'.pickle')
 
-    # train model
-    history = model.fit(train_eng_enc_seq, train_port_enc_seq, epochs=30, batch_size=512, validation_split=0.2, callbacks = [checkpoint], verbose=1)
+        max_eng_sen_word_length = load_pickle(directory_eng+'/max_eng_sen_word_length'+str(i)+'.pickle')
+        max_port_sen_word_length = load_pickle(directory_port+'/max_port_sen_word_length'+str(i)+'.pickle')
 
-    #plot
-    plt.plot(history.history['loss'])
-    plt.plot(history.history['val_loss'])
-    plt.legend(['train', 'validation'])
-    plt.show()
-    '''
-    #dump test
-    dump_pickle(cur_dir+'dump', test_eng_enc_seq, 'test_eng_enc_seq')
-    dump_pickle(cur_dir+'dump', test_port_enc_seq, 'test_port_enc_seq')
+        model = define_model(eng_vocab_size, port_vocab_size, max_eng_sen_word_length, max_port_sen_word_length, 512)
+        rms = optimizers.RMSprop(lr=0.001)
+        model.compile(optimizer=rms, loss='sparse_categorical_crossentropy')
+
+        file_name = 'model.rnn.train'+str(i)
+        checkpoint = ModelCheckpoint(file_name, monitor='val_loss', verbose=1, save_best_only=True, mode='min')
+
+        # train model
+        history = model.fit(train_eng_enc_seq, train_port_enc_seq, epochs=30, batch_size=512, validation_split=0, validation_data = [val_eng_enc_seq, val_port_enc_seq], callbacks = [checkpoint], verbose=1)
+
+        #plot
+        plt.plot(history.history['loss'])
+        plt.plot(history.history['val_loss'])
+        plt.legend(['train', 'validation'])
+        plt.show()

@@ -2,7 +2,7 @@
 #text_processing.py                                              #
 #   - Read Datasets from .txt files                              #
 #   - splits the lines                                           #
-#   - Apply tf-idf                                               #
+#   -                                                            #
 #   - dump as matrix                                             #
 ##################################################################
 
@@ -74,12 +74,38 @@ def dump_pickle(file_path, data, file_val):
         pickle.dump(data, f)
         f.close()
 
+def max_length(data):
+    mx = 0
+    for i in range(len(data)):
+        mx = max(mx, len(data[i]))
+    return mx
+
 #from google.colab import drive
 #drive.mount('/content/gdrive')
 
+# Validation Data Process
+validation_dataset = read_dataset('datasets/testing_datasets/dev.txt')
+val_eng_sen, val_port_sen = split_input_target(validation_dataset)
+
+val_eng_sen = cleaning_punctuation_and_uppercase(val_eng_sen)
+val_port_sen = cleaning_punctuation_and_uppercase(val_port_sen)
+
+print('Validation English Datalen: '+str(len(val_eng_sen)))
+print('Validation Portugu Datalen: '+str(len(val_port_sen)))
+
+# Test Data Process
+test_dataset = read_dataset('datasets/testing_datasets/test.txt')
+test_eng_sen, test_port_sen = split_input_target(test_dataset)
+
+test_eng_sen = cleaning_punctuation_and_uppercase(test_eng_sen)
+test_port_sen = cleaning_punctuation_and_uppercase(test_port_sen)
+
+print('Test English Datalen: '+str(len(test_eng_sen)))
+print('Test Portugu Datalen: '+str(len(test_port_sen)))
+
 
 for i in range(1, 4):
-    
+
     dataset = read_dataset('datasets/modified_datasets/dataset_'+str(i)+'.txt')
     eng_sen, port_sen = split_input_target(dataset)
 
@@ -91,24 +117,34 @@ for i in range(1, 4):
     #visualize_length_of_sentences("modified dataset "+str(i), eng_sen, port_sen)
 
     #tokenize
-    eng_tok = tokenizer(eng_sen)
-    port_tok = tokenizer(port_sen)
+    eng_tok = tokenizer(eng_sen+val_eng_sen+test_eng_sen)
+    port_tok = tokenizer(port_sen+val_port_sen+test_port_sen)
 
     #Max word length in Sentence
-    max_eng_sen_word_length  = 15
-    max_port_sen_word_length = 15
+    max_eng_sen_word_length  = max_length(eng_sen+val_eng_sen+test_eng_sen)
+    max_port_sen_word_length = max_length(port_sen+val_port_sen+test_port_sen)
 
     #Vocab Size
     eng_vocab_size = len(eng_tok.word_index)+1
     port_vocab_size = len(port_tok.word_index)+1
+    print('English Vocab Size: ' + str(eng_vocab_size))
+    print('Portugu Vocab Size: ' + str(port_vocab_size))
 
-    #encoding text to sequence
-    eng_encoded_seq = encode_text_to_sequences(eng_tok, max_eng_sen_word_length, eng_sen)
-    port_encoded_seq = encode_text_to_sequences(port_tok, max_port_sen_word_length, port_sen)
+    #train encoding text to sequence
+    train_eng_enc_seq = encode_text_to_sequences(eng_tok, max_eng_sen_word_length, eng_sen)
+    train_port_enc_seq = encode_text_to_sequences(port_tok, max_port_sen_word_length, port_sen)
 
-    #print
-    print(eng_encoded_seq)
-    print(port_encoded_seq)
+    #validation enc text to seq
+    val_eng_enc_seq = encode_text_to_sequences(eng_tok, max_eng_sen_word_length, val_eng_sen)
+    val_port_enc_seq = encode_text_to_sequences(port_tok, max_port_sen_word_length, val_port_sen)
+
+    #validation enc text to seq
+    test_eng_enc_seq = encode_text_to_sequences(eng_tok, max_eng_sen_word_length, test_eng_sen)
+    test_port_enc_seq = encode_text_to_sequences(port_tok, max_port_sen_word_length, test_port_sen)
+
+#   print
+#   print(eng_encoded_seq)
+#   print(port_encoded_seq)
 
     #dump as pickle
     directory_eng = os.path.dirname('tokenized/English/')
@@ -117,6 +153,33 @@ for i in range(1, 4):
         os.makedirs(directory_eng)
     if not os.path.exists(directory_port):
         os.makedirs(directory_port)
-    dump_pickle(directory_eng, eng_encoded_seq, i)
-    dump_pickle(directory_port, port_encoded_seq, i)
 
+    print('-------------------DUMP VALIDATION--------------------')
+    #DUMP VALIDATION
+    dump_pickle(directory_eng, val_eng_enc_seq, 'validation_enc_seq'+str(i))
+    dump_pickle(directory_port, val_port_enc_seq,'validation_enc_seq'+str(i))
+
+    print('-------------------DUMP TEST--------------------')
+    #DUMP TEST
+    dump_pickle(directory_eng, test_eng_enc_seq, 'test_enc_seq'+str(i))
+    dump_pickle(directory_port, test_port_enc_seq,'test_enc_seq'+str(i))
+
+    print('-------------------DUMP TRAIN--------------------')
+    #DUMP TRAIN
+    dump_pickle(directory_eng, train_eng_enc_seq, 'train'+str(i))
+    dump_pickle(directory_port, train_port_enc_seq,'train'+str(i))
+
+    print('-------------------DUMP TOKENIZER--------------------')
+    #DUMP TOKENIZER
+    dump_pickle(directory_eng, eng_tok, 'eng_tok'+str(i))
+    dump_pickle(directory_port, port_tok, 'port_tok'+str(i))
+
+    print('-------------------DUMP VOCAB SIZE--------------------')
+    #DUMP VOCAB SIZE
+    dump_pickle(directory_eng, eng_vocab_size, 'eng_vocab'+str(i))
+    dump_pickle(directory_port, port_vocab_size, 'port_vocab'+str(i))
+
+    print('-------------------DUMP MAX SEN LENGTH--------------------')
+    #DUMP max_eng_sen_word_length
+    dump_pickle(directory_eng, max_eng_sen_word_length, 'max_eng_sen_word_length'+str(i))
+    dump_pickle(directory_port, max_port_sen_word_length, 'max_port_sen_word_length'+str(i))
