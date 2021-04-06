@@ -13,8 +13,14 @@ eu quero ver o o nosso|0.0
 prompt_001169e0b09e761a9d66ee32be5ddad3|do they like each other?
 eles gostam de um outro cachorro ?|0.0
 
+prompt_79e03f17732673603cbefccf7f4a4a48|both places.
+|0.0
+
 prompt_cb379aa6985650174334a193d4bde6ed|is that your home address?
 aquela e a vossa casa ?|0.0
+
+prompt_a71514a1691be2dd98758686d7078149|her life was really interesting.
+|0.0
 
 prompt_a5ab39d0f00a4935475690f6f4c49358|i have already heard that song.
 eu tenho que eu tenho de comprar isso ?|0.0
@@ -24,6 +30,9 @@ eu tenho um lapis ?|0.0
 
 prompt_9617810cf66301cfa33d2ee88ca46680|he's not going to come again.
 ele nao vai vir de novo|0.0
+
+prompt_926be521ebaa7d992bfe336b7417ffc5|that's one of my favorite memories.
+|0.0
 
 prompt_40cf4395efa52a16e61d9208dd68bede|i need a bigger size.
 eu preciso de um maior envelope|0.0
@@ -39,6 +48,9 @@ eles estao achando ?|0.0
 
 prompt_c23cfb160eb910ba55cd46412410baf2|the bowls are in the cabinet on the right.
 os potes estao no o lado direito|0.0
+
+prompt_f3295665fc47f88cbec340b0e70a67d4|he creates software for a computer company.
+|0.0
 
 prompt_929b065ae3985c59c26fca7513ebb8f9|how much is the tax?
 quanto e o valor daqueles relogios ?|0.0
@@ -72,6 +84,9 @@ meus filhos estao a adorar o seu proprio|0.0
 
 prompt_d22bc7db377d332db9c4f2c1bc708617|pop is my favorite kind of music.
 a hockey e a gostar de grande de violao|0.0
+
+prompt_c55368d521040b8fabd721b9aac96349|i've lost my identification card.
+|0.0
 
 prompt_b3dcfe93b2a74b295ee772f474bb4747|is she a good soccer player?
 ela e uma boa ideia de galinha ?|0.0
@@ -142,6 +157,9 @@ o restaurante e no restaurante a um hospital|0.0
 prompt_315baf33fb2d55b96e38725937a74256|can i sit here?
 eu sou capaz de sentar aqui ?|0.0
 
+prompt_8a584b359465446975b786de1a9c1cc3|i am here to pay a debt.
+|0.0
+
 prompt_ada4ca1855ecec1d1a6a3bbaa30a18cc|i will pay in cash.
 eu vou de tirar o inicio|0.0
 
@@ -159,6 +177,9 @@ porque voce estava a fazer nesse trabalho ?|0.0
 
 prompt_f0dbce12449d22261e2a80630d0fe2f0|tom has lost every match since then.
 a equipe do semestre novo|0.0
+
+prompt_323d5720bee956bd26a1ae970608337e|he became the president in 2010.
+|0.0
 
 prompt_c3c63ca1feefdc89706ac0f5df21bd6b|do they have jobs?
 eles tem empregos ?|0.0
@@ -205,8 +226,14 @@ a maria esta a uma bicicleta em relacao a ler ?|0.0
 prompt_270ddcdfe39573ca402acc9037703bc8|who walked with you to the museum?
 quem dirigiu para o museu ?|0.0
 
+prompt_85a2c65c3b056292271d39ca7504a6c1|her marriage is over.
+|0.0
+
 prompt_3b55225166af9da92de1f9c6db549e1c|what part of africa are you from?
 qual e que e que voce e que voce e ?|0.0
+
+prompt_3ef4d0f4ef0f35147ab64f81fc31037d|we have turned to the teacher.
+|0.0
 
 prompt_5b5000c41e8c8c8383918a9eedb91c89|it is a new section.
 isso e um novo cachecol|0.0
@@ -298,6 +325,9 @@ esta noite , esta a venda ?|0.0
 prompt_05d5f319feb08f87bd64af1384967e56|they are not independent.
 eles nao sao o meu cao|0.0
 
+prompt_74d2ff4e8893f625e6b82fcd2d76e6c0|he's thinner than his brother.
+|0.0
+
 prompt_437e17fe7bbcf48af144722c1f43c1d8|this is my sister's pet.
 esta e minha irma esta funcionando|0.0
 
@@ -309,6 +339,9 @@ nao tem nenhuma coisa nesta cidade|0.0
 
 prompt_38dcdf02d8ac7944063bffe9a8a1120e|do you want to study in the united kingdom?
 voce quer estudar no que ?|0.0
+
+prompt_d1a1ad320f15e122e59cd6de97e37a06|the salesperson gave us a discount.
+|0.0
 
 prompt_810264873cff0f1352e2768ce38428df|what color are her eyes?
 que cor e os seus pais ?|0.0
@@ -361,11 +394,17 @@ onde e o fogo ?|0.0
 prompt_54cb15967e08cab1e5ddc4a204dfc079|do they have another phone number?
 eles tem um telefone mais uma vez ?|0.0
 
+prompt_5b1d4f176614fc1f2321c2fa910633f9|my sister has perfect vision.
+|0.0
+
 prompt_d456513b485eedede405761127ee6a81|the nurse came and put a cup of water on the table.
 a enfermeira se sente uma gorjeta na mesa de mesa de mesa de mesa de mesa de mesa de mesa|0.0
 
 prompt_25356f22a9c28116af3a3c9508826499|guests should not use the pool after midnight.
 os sapatos nao pode ser que esta a desejar ficar a respeito de livros|0.0
+
+prompt_9327f7190a07bbaf29aed871f0287959|the ceiling light was not working.
+|0.0
 
 prompt_b63bcea4dea441a0d69b5bec61d7bd5f|my doctor works at a big hospital.
 meu medico trabalha em um grande de um grande ?|0.0
@@ -381,6 +420,9 @@ ele esta a gostar de sua cadela|0.0
 
 prompt_606852e77ad8c43c2d02c12b6f7ce4fb|the model has long, blond hair.
 o simio tem pouco de cabelos e loiro|0.0
+
+prompt_fa194b692434924c5ddba79e3ccf4d1d|when did he become the president?
+|0.0
 
 prompt_997a11fa3fe6af9ba41c339632b4aab3|why does the bear hate tomatoes?
 por que e que o que o que tiver o preco com o teste de ouro ?|0.0
@@ -402,6 +444,12 @@ muito dificil de verdade|0.0
 
 prompt_56bc4b6cee02d23be8a6cef33ee4c173|i received my diploma in 2005.
 eu encontrei meu pe de frances|0.0
+
+prompt_a057213f104de33dce71b14fe5a76048|i think we should buy four gallons of water.
+|0.0
+
+prompt_92c678fdb41610e999a4f1a2a3baae1f|my granddaughter ate too much ice cream.
+|0.0
 
 prompt_f9181232383101155364e3506dccda6a|many people thought that the new dance was bad.
 pessoas gastam que a tela novo|0.0
@@ -445,6 +493,9 @@ a policia nao veio ainda|0.0
 prompt_3e6a59545fde4b977d97f0167be10aa5|they live here.
 eles moram aqui|0.5399085171603089
 
+prompt_e8c4b01e764d157e7bc1207b6d997cc6|the department has a great budget.
+|0.0
+
 prompt_3b83b5b7319760237da35d1c4dd7da1e|i usually get up late.
 eu me dar dar dar comida|0.0
 
@@ -460,6 +511,9 @@ eu tenho um pequeno e um pequeno de leite|0.0
 prompt_d01845cae34894dd2a9e98edf3c0ccc6|has marco ever had a job?
 o marcos ja teve um trabalho ?|0.0
 
+prompt_a33b9dbfc43ce9151ee572cab313ebd6|elizabeth prefers the round plates.
+|0.0
+
 prompt_e20272ee80dbae845963a1d67ac1eed9|i was a baby.
 eu estive um bebe|0.0
 
@@ -469,8 +523,17 @@ voce pode usar esse e possivel|0.0
 prompt_03cf49152e801f1793eb399b3d9efcca|she doesn't look like her mom.
 ela nao esta a se parecendo a sua mae|0.0
 
+prompt_20fce92ece0543fd9eb5b10617e0b927|he sings like elvis.
+|0.0
+
 prompt_57e326ac074cbd1197fadb3d82377ec6|how is your family?
 como esta sua familia ?|0.0
+
+prompt_7495b9d864638445bd6cd3dfe22d1270|wine has a strong effect on me.
+|0.0
+
+prompt_7c751b6c3969eb91c9fe7cc629af4fa8|the population pays taxes for services.
+|0.0
 
 prompt_5c2af47a8670809496dce88fdb06760f|my cellphone is in my back pocket.
 meu telemovel e meu dorso ?|0.0
@@ -480,6 +543,12 @@ ela nao quer ir para o show|0.0
 
 prompt_e817884a78a669192cb1dea0913915e9|is anyone using the washing machine?
 alguem esta a usar a maquina de roupa ?|0.0
+
+prompt_b1436ed4f1a142928840f614f7c03514|i remember seeing her last year.
+|0.0
+
+prompt_8ca2754f95f4e0c730260d167d382034|the sheep were upset when they lost the competition.
+|0.0
 
 prompt_5ac5d2b30b28630ec8cd1df88682c4f2|classes are taught in english.
 as aulas sao ensinadas em ingles|0.0
@@ -493,6 +562,9 @@ as criancas estao a ir pra dar uma coisa|0.0
 prompt_f17915ddeca1c9384a94148313714014|we'll be playing against you guys next week.
 nos vamos estar a jogar contra voces na semana que vem|0.0
 
+prompt_f200205833e1ca5cc89dca88a466b939|monica is going to sing at 8 p.m.
+|0.0
+
 prompt_1fc97e19f5cacba5fef0290dac59689e|her height, which is five feet, six inches.
 a sua crianca e quatro polegadas|0.0
 
@@ -505,11 +577,17 @@ eles dancaram muito com o outro|0.0
 prompt_b939e553b5e9b33c1588f97b5eae0ab5|i need to learn.
 eu preciso de fazer o jantar|0.0
 
+prompt_250550bc11409772354040d827804542|look at the signs above the platforms.
+|0.0
+
 prompt_155b4ccb6942483d343443a8219afb75|the kids will practice the play after school.
 as criancas vao estar tocando a brincar de faculdade|0.0
 
 prompt_9c1fed5e3a8fa392e7ad6b5bcb0c4682|click here to download.
 clique aqui para baixar ?|0.15501082030331773
+
+prompt_50bd719cfc0ff7c2bcd92ec1dc7e94f8|after their adventures in argentina, they flew home.
+|0.0
 
 prompt_a09f1c514a7516f9bb6a3d6ac8ff689f|maybe the directions were wrong.
 talvez a localizacao incorreta|0.0
@@ -520,6 +598,12 @@ o rei se preparou o rei|0.0
 prompt_a4e0e0b9223e89b31d209b106c2c2bda|julia has already shown me around.
 a sua vez pela manha|0.0
 
+prompt_4b57700bb885f1d33663694f716c89c9|the drugs had a positive effect.
+|0.0
+
+prompt_b74cdc26a5410e5afee609763f7e6b2a|he threw the ball to another player.
+|0.0
+
 prompt_82d1d870cc116a301c7066ae900784ad|he will sleep in the same room as her.
 ele vai estar a dormir a mesma o seu quarto|0.0
 
@@ -528,6 +612,12 @@ o seu irmao esta em sua boca|0.0
 
 prompt_4b77f03d30bf87b7f9b5f86c92e7fa9f|there are no bathrooms on the third floor.
 nao tem classes no chao|0.0
+
+prompt_d9d43e3e8bb7fce6091c80124f993ff6|i like chinese food in general.
+|0.0
+
+prompt_784fd76cb608df186e53d13ed36f610a|everything was perfect except the flowers.
+|0.0
 
 prompt_54f423d0873efdce03b9276c29fef22e|the girl is too young for that.
 a garota e muito por isso|0.0
@@ -556,8 +646,14 @@ voce entendeu de conferir os calcados na estante ?|0.0
 prompt_a94a4847a467bc65b4b793bde455dc88|we were standing in the middle of the platform.
 nos estavamos em casa do oceano|0.0
 
+prompt_b2e9ff24042a5d5e21e87d7eccd6d466|he likes expensive cameras.
+|0.0
+
 prompt_72c8f902c1f2e56087dafdf980b263bd|there will be an art show downstairs.
 havia um concerto de brinquedos no quarto|0.0
+
+prompt_23fa2422f9a381c1680cc4e9a1d1b17f|she always wears the latest fashions.
+|0.0
 
 prompt_983ce15f97bc40e181eda0e997ab0e78|take food and water.
 tire o seu agua|0.0
@@ -592,6 +688,9 @@ meu irmao e o assunto|0.0
 prompt_974a9d71b523c049fa8fa4d0a1800e7b|they want to know what happens.
 eles querem saber o que esta a respeito de manga|0.0
 
+prompt_6e1ea0b61367939965b6ce84c23088d6|this was the signal to stop.
+|0.0
+
 prompt_35179a54ea587953021400eb0cd23201|how are you?
 como voce esta ?|0.0
 
@@ -600,6 +699,9 @@ a pessoa mais perigoso o o em o almoco em especie de meu dia ?|0.0
 
 prompt_cc30f0f147352a600262f9ea44d3f92f|how much oil should i use?
 quanto de utilizar o aparelho de usar ?|0.0
+
+prompt_0d4753c9ff0d2657c305407ca80a4f14|what's the coldest month of the year?
+|0.0
 
 prompt_1eb0d1d72a0601b38449ffe23abaa050|i will get a basket for the apples.
 eu vou receber um enfermeiro ao cesto|0.0
@@ -618,6 +720,12 @@ nao importa , nao esta fresco , nao e verdade|0.0
 
 prompt_8061fe66ff6d4e8a02ca2c1f7fed02a3|our goal is to spend less.
 o nosso proposito e de vender|0.0
+
+prompt_8f5eac8b0b8b7133fed19d9b1b0ec37b|the ties come in a variety of colors.
+|0.0
+
+prompt_3bd062afac1d088c305919faa1589596|did you find out about the flights?
+|0.0
 
 prompt_a53b6ac4719373e5285274e8fe717b5b|he'll be leaving as soon as possible.
 ele ira ser que eu vou ser que puder|0.0
@@ -640,6 +748,9 @@ nos precisamos de ir a sua casa|0.0
 prompt_b9683d936ae8f1109bc5a3cc27486a1a|i made a few mistakes on the test.
 fiz algumas mudancas no exame|0.0
 
+prompt_131405fc6a09134fa813b3a6a3a00c1c|there is a bedroom upstairs, isn't there?
+|0.0
+
 prompt_a22c29b8b447d601d05664120aabb90d|we had known our mother.
 nos tinhamos conhecido a sua mae|0.0
 
@@ -652,14 +763,23 @@ eu uso um computador para o trabalho|0.0
 prompt_177842a3065d59ac3ebb57950492cebe|i don't know his first name.
 eu nao sei o seu nome dele|0.0
 
+prompt_3f3e3017e4e83640e2fbda34e5e5142b|you'll be an adult soon.
+|0.0
+
 prompt_94b7dbf913aabdb2fb9b0359d06d0000|he and his wife will be at the hotel tonight.
 ele e a sua esposa na loja de o seu hotel|0.0
+
+prompt_7a2df12c9ee93454f98a3090bcc5eb8c|i study chinese culture.
+|0.0
 
 prompt_f9dfb0c249ec88b3b43483e4f66cadc6|would you like any chocolate ice cream?
 voce gostaria de gostar de gostar de gelado em demasia ?|0.0
 
 prompt_3e938597728c222d0fbb0a97f37cdf3d|i'm not fine.
 eu nao estou a conseguir bem|0.0
+
+prompt_25fef3d603af4814ace85e33b569ae6a|she's been an engineer for seventeen years.
+|0.0
 
 prompt_133512ef50c722b8fd28b6ad59d30228|we lived in germany last year.
 nos comecamos a europa no ano passado|0.0
@@ -679,6 +799,9 @@ eu me ouco a gente|0.0
 prompt_f6edb9dc2842b6d5983743dd4c8f4cb3|he stayed at the museum for three hours.
 ele esta a tocar no aviao por horas|0.0
 
+prompt_e3212ce80d54e5bad568be1889a29491|he hates his job.
+|0.0
+
 prompt_af74cecbf9bca08705deedca07b85fe7|we're taking the subway to the zoo.
 nos estamos a ir ao parque em o zoologico ?|0.0
 
@@ -697,8 +820,14 @@ o jon e muito nova e de tomar pao para beber ?|0.0
 prompt_9b149d27a6e6b5da94df405d91cd7834|the bus left at a quarter to nine.
 a equipe do minimo para um quarto de ser para as nove|0.0
 
+prompt_f6ca7b0d653d30b196f92b0a83b9213f|they'll be praying at the mosque at noon.
+|0.0
+
 prompt_c72cadf80bfa1a78d729e1f28eec5602|we were not invited.
 nos nao estavamos a nos nao foi convidada|0.0
+
+prompt_b78b24024cbbdb2dd7deae64a98996f0|the ship is in the port now.
+|0.0
 
 prompt_03e4d06e18345fa674f2fe25cf1a6286|don't sit in the sun.
 nao me sentar no sol|0.0
@@ -706,8 +835,17 @@ nao me sentar no sol|0.0
 prompt_1a6ff2e15b9653b92cf7ad515550ed76|the note is on the yellow paper.
 a mensagem e no cume do centro de banho|0.0
 
+prompt_6e44be84ff288abf914f3b933d0b8238|we're taking three tests today.
+|0.0
+
 prompt_90cf3e8ce4e8d40b9c4a1caf209dbbad|the restaurant opening was great.
 a embarcacao esta a um casarao|0.0
+
+prompt_03741facfebcf6513b5614c8b1f765b9|how do we respond to these letters?
+|0.0
+
+prompt_c8db22aae15001bfbd335a043f6d8459|the prize was given to the cows.
+|0.0
 
 prompt_879d179da96d7f9371e4bf1b1531a26a|i love warm weather!
 eu estou a adorar o tempo !|0.0
@@ -730,8 +868,17 @@ eu me sinto muito em demasia !|0.0
 prompt_123d6772f082e69d450e4d8158c028b3|my main food
 minha cor de comida japonesa ?|0.0
 
+prompt_df265cbdd28316c01c1f685775e6e333|i will not watch this channel.
+|0.0
+
 prompt_88a68c22837250f9c804eb06982be565|i cleaned the kitchen three hours ago, and it's dirty again!
 eu fechei as a partir de graca que e mail , e mail , e mail , e mail ,|0.0
+
+prompt_b202c448da4c0e53f3283db8d29ed729|he was the strongest man in the competition.
+|0.0
+
+prompt_c46c1288ade017fa5699dd24f50e13f2|i need a reservation.
+|0.0
 
 prompt_307906e8b5aeb0a0c505e0a50dc6f6c6|have you seen my camera?
 voce viu a minha companheira ?|0.0
@@ -772,11 +919,17 @@ qual aula e a mais dispendiosa mais perigoso ?|0.0
 prompt_f0c4db7c58c81a94975a741e1b4ad686|the refrigerator is next to the wall.
 o frigorifico esta ao lado do jogo|0.0
 
+prompt_d18853af42d55f070c4ce8c47ee9672e|i suppose these leather pants belong to someone else.
+|0.0
+
 prompt_beb23dcd0298b421f97b3c82ded4d298|he never checks his email.
 ele nunca tomou o seu e mail|0.0
 
 prompt_e34a3595bfc5a8d360aead56e5e5d906|the meeting was so boring!
 a reuniao estava muito chato !|0.0
+
+prompt_0df7003984c65a4bbf27d52f9903548f|the government needs to listen to the people.
+|0.0
 
 prompt_f54807e6d9eebf9296e7a5f8dd315bb9|it's eight o'clock.
 sao horas|0.0
@@ -793,8 +946,14 @@ eu estou a eu estou a eu estou a lingua inglesa e o ingles|0.0
 prompt_d03734d4ea45c7c11a20be764c006f3e|it wasn't possible then.
 nao era muito em excesso|0.0
 
+prompt_0edce694bfd1f172937a5acec3ef78a3|i am creating my character's profile.
+|0.0
+
 prompt_79253af83f772a9ded6570377669f8bb|they want to invite us to the party.
 eles querem fazer a festa para a festa|0.0
+
+prompt_90574524e7eecc85b40d98fa22ca384a|do you have a razor?
+|0.0
 
 prompt_dfa6ea74060cd75aa3909556b767d66c|the bathroom is really small.
 o banheiro e muito de verdade de verdade|0.0
@@ -802,8 +961,14 @@ o banheiro e muito de verdade de verdade|0.0
 prompt_cc2e90e7124c9302be84a633af27659c|brown is not my favorite color.
 o rei nao e a minha cor de minha cor|0.0
 
+prompt_7d9f41417c0eb8f49a8c6cdc0cd33331|room number two zero four.
+|0.0
+
 prompt_e9a97d075f5aa6e87c6391948a2ee81c|he lets me drink his wine.
 ele me permite me dele|0.0
+
+prompt_90b61bf762d61f3ce8951ff0e61f2f88|it is for my novel.
+|0.0
 
 prompt_520eb6d0bc8e0fa1adebc2969abde971|they import wood from brazil.
 eles importam a de o brasil|0.0
@@ -862,8 +1027,14 @@ minha irma pode nadar muito rapido ?|0.0
 prompt_d373a9218e9a240b28b2f795ab3f881b|whose are the shoes?
 de quem e que os sapatos estao ?|0.0
 
+prompt_4e676272652941a9217e78a0db8faa3a|i ate two pieces of fried chicken.
+|0.0
+
 prompt_98fb2311f85d6a45cc90df6de0e0ac57|i don't know if that's right.
 eu nao sei o seu problema|0.0
+
+prompt_5604a8a262838e500444bda4ff12e4e4|the cake was baked for forty minutes.
+|0.0
 
 prompt_bd5c41eab3d4a5f7c8cb10bdbde89c83|some of the pieces are missing.
 algumas das disciplinas em excesso !|0.0
@@ -885,6 +1056,9 @@ eles estao vivendo em uma cidade pequena|0.0
 
 prompt_7a156dfb6429b5fd9e0bb121fec43167|my art teacher was really good.
 minha professora estava muito bom|0.0
+
+prompt_6b64a718e2c1eacb36b8aaf714914900|pigs have four legs.
+|0.0
 
 prompt_789de7dd4137f7a8904d8b585dad3213|what i am saying is true.
 que eu o que e o seu chapeu|0.0
@@ -934,6 +1108,9 @@ eles tem muitos aguardar antes de ir|0.0
 prompt_cb8a4beadcfae816ac5c86d0e66aa8a2|do you know how to drive?
 voce sabe de experimentar ?|0.0
 
+prompt_4cd4ded536b284a3d4f93679b873255e|this is my type of character.
+|0.0
+
 prompt_870708db5c0529bfb88ba72407b4f612|they will be selling food in the square as usual.
 eles estarao a iniciar a comida na prateleira como e de que eu fosse um pouco de seu namorado|0.0
 
@@ -976,6 +1153,9 @@ ela disse que eu estava a cara|0.0
 prompt_f9683bccf25c9dd51fc2a064b01b317b|he wants to ask us a big favor.
 ele quer fazer um par de um bom coisa|0.0
 
+prompt_088bbc8ca8d70c18bee9db7bc82fc4b2|that doesn't belong to you.
+|0.0
+
 prompt_68f9f8a06613c851cc1096c1ac99b7ff|i'm sixteen years old.
 eu estou a beber anos|0.0
 
@@ -991,11 +1171,20 @@ eu quero fazer uma outra|0.0
 prompt_3777a41a2b70da5bf4abce330612aa1b|their furniture looks old.
 o lider delas esta a um ouro|0.0
 
+prompt_168a920c7f361bd909b2cda754029788|owls can see very far.
+|0.0
+
+prompt_8ee73011da03de454295fb67cdff617b|she explained her culture to me.
+|0.0
+
 prompt_cef2f10874b59fb0b94677e3c7a491c0|it is very important in chinese philosophy.
 e muito de shorts cinza|0.0
 
 prompt_f362b6d6e303f43cefbdb28649ffb253|did you finish the puzzle?
 voce deixou o valor do que ?|0.0
+
+prompt_29b35e5b59667e72ddfe758ab79c29a5|oh no, one of the wheels is missing!
+|0.0
 
 prompt_c8bde79cde8e9db68c6dae06c85373b8|we finished the task.
 nos deixamos o encontro|0.0
@@ -1018,11 +1207,17 @@ eu nao desejo por que eu nao estou a desejar por que minhas coisas|0.0
 prompt_7ecb2d813b7416845fbdc9cff4a7b84b|a famous museum.
 um jardim zoologico|0.0
 
+prompt_56d9765eda873b79282542a4c12375f2|he has no information about victims or damage.
+|0.0
+
 prompt_c8d4315f9c35435089f6dd33f816293f|they chat online every night.
 eles jogaram na noite passada|0.0
 
 prompt_aa8a69ee54035de6b81feca99d7d4203|the museum is close to the train station.
 o museu esta perto do trem|0.0
+
+prompt_d7353ec12bb71edc7fda282f94ab8b7f|please don't smoke.
+|0.0
 
 prompt_92a3598415e7473811f2bbc74c8466c0|i've never used this software before.
 eu nunca usei esse momento antes|0.0
@@ -1032,6 +1227,9 @@ eu tinha vendo de oliva|0.0
 
 prompt_d9838973e49f6046464dcff732fef6df|the subway goes towards the airport.
 o metro fica ao lado do aeroporto|0.0
+
+prompt_b9920b05fbb7b35674451f90a35d4413|the pink blanket belongs to my daughter.
+|0.0
 
 prompt_0ca9f37fcf57d62d1e1aebe21247c7c2|his aim is to buy that property.
 o seu proposito e que responder a se aquele quarto|0.0
@@ -1078,6 +1276,9 @@ o seu cabelo esta muito grande|0.0
 prompt_1067722203ef7e71933683a2ea198bf3|i like the local food.
 eu gosto da comida da comida|0.0
 
+prompt_3fb230dc772167a887e3b87398bec713|zero, one, two, three.
+|0.0
+
 prompt_a5ff38122b64f4c7c7c067876b0c5a01|this plant is growing fast.
 este animal e a fruta de banho ?|0.0
 
@@ -1089,6 +1290,9 @@ voce quer uma esponja ?|0.0
 
 prompt_b0f27fa3fd2fe9a6badabe4125cea470|which class is easier?
 qual aula e mais facil ?|0.0
+
+prompt_b58d7d93038b2b827389754b2523c549|she sets the table.
+|0.0
 
 prompt_86ced710dd123c72fea9e2c9d06afaf9|germany is definitely different from brazil.
 a gente esta a precisar de um pequeno tipo de fumar|0.0
@@ -1111,11 +1315,17 @@ o aviao tomou a tempo no horario|0.0
 prompt_c79737d4a54ad585ae362a4391ed6d3d|the teacher talked to them after class.
 o professor falou quando eles estao a aula|0.0
 
+prompt_9508cbc8208c13ac375270655f42b22a|there is a string in my pasta.
+|0.0
+
 prompt_8f29c7164f0642b6049fe5c098fdd8ff|do you want to go to the uk with me?
 voce quer ir para o outro snowboarding ?|0.0
 
 prompt_6f89bfa170ddb20fe8afc2ada6687b28|this is the same jacket, but in a different color.
 esta e a uma camera de uma cor diferente|0.0
+
+prompt_87015173d9855ec532776b49ae1ff67a|i do not buy fruit in the supermarkets.
+|0.0
 
 prompt_a8dd2c35f7088ba5d143689a468409b9|i will change the end of the book.
 eu vou mudar o livro de livro|0.0
@@ -1141,8 +1351,14 @@ e um pouco de verdade|0.0
 prompt_738986296e59b0604f18590f0766189c|what's the matter with your finger?
 qual o problema com o seu filho ?|0.0
 
+prompt_cd73ce05edefe8c0660bf446d6342cb9|the bedroom ceiling looked unusual.
+|0.0
+
 prompt_af70a28123955e957c73491fcc84a81e|the site is special.
 o lugar e especial e famosa|0.0
+
+prompt_fd0396c186437350bcbc098eb19bb2c0|they want to count the number of flights to china.
+|0.0
 
 prompt_fb50bbde1eaa959dc6377db4a649d5f7|do you want your mother to lose her job?
 voce quer sua irma ?|0.0
@@ -1152,6 +1368,9 @@ eu nao consigo achar a trilha !|0.0
 
 prompt_34c4bffb2c61814b16b07d3d55bd8ae3|next, take a left at the corner.
 corram , vamos a vir na esquina e a comunidade|0.0
+
+prompt_c1d422315c57a485dd90376d6d3fc93c|the elephants were wearing skates when they fell.
+|0.0
 
 prompt_e7f45090558c4838fb46ea8ca93a5dc8|there's a coffee shop across from the library.
 ha um outro pedaco de uma coisa em frente da uma coisa|0.0
@@ -1198,6 +1417,9 @@ voce esqueceu o seu telefone ?|0.0
 prompt_cafe25bd5b54a44bf57f2088ccf17955|i have never won a competition.
 eu nunca tenho sido uma rocha !|0.0
 
+prompt_a1375c6865b318501dc490cfdcb49b74|what size is this swimsuit?
+|0.0
+
 prompt_297d52bbb45a57a2fa9c56744dcd5f59|why do we have to learn so much vocabulary?
 porque e que nos devemos trajar um uniforme esta a um uniforme esta a um uniforme esta a um bocado|0.0
 
@@ -1225,14 +1447,23 @@ seu pai esta a gostar ?|0.0
 prompt_c2255a6bfa52ac0b9ff427f856823a47|the boy had come from school.
 o menino tem quatro de john chegou da universidade|0.0
 
+prompt_51d28d994fe6383378d487ecf925bff8|they crossed the river carefully.
+|0.0
+
 prompt_dd6e82a145660148bb2916e28eeda612|i stayed with my grandparents until the end of the semester.
 eu vendi minha avo no aviao|0.0
+
+prompt_cb5a751b7b804cbd84f6cb3a88e92eb7|the soldiers walk with the students.
+|0.0
 
 prompt_50cda89e8d2f02f9ce8aa395139d1ac1|i am good, thank you.
 eu estou otimo , obrigada|0.0
 
 prompt_a3748e07113a5f2f50a3e8eb6a3d3af8|how are you doing, mr. turner?
 como voce esta voce e que tu estas a fazer o seu hotel ?|0.0
+
+prompt_83215055a34321a3882b78b712ac4c15|in general, the staff is bilingual.
+|0.0
 
 prompt_52b2373a8cf3cbc193f3260d4036c63d|everybody needs water.
 todo dia de leite|0.0

@@ -163,12 +163,14 @@ def convert_to_gold(dataset_path,reference_path,head):
     with open(reference_path,'r',encoding="utf-8") as f:
         reference_data = pd.read_table(f,delimiter='|', dtype='U',header=None)
     
-    gold_dataset = pd.DataFrame('',index=range(423*3), columns=['line'], dtype='U')
+    gold_dataset = pd.DataFrame('',index=range(501*3), columns=['line'], dtype='U')
 
                 
     portu = ''
     weight = '0.0'
     promt_found = False
+    promt_id = ''
+    promt = ''
     i = 0
     for reference in reference_data.itertuples(index=False,name=None):
         if reference[0].startswith('prompt_'):
@@ -178,6 +180,11 @@ def convert_to_gold(dataset_path,reference_path,head):
                 weight = '0.0'
                 i += 2
                 promt_found = False
+            else:
+                gold_dataset.iat[i,0] = promt_id + '|' + promt
+                gold_dataset.iat[i+1,0] = '|0.0'
+                gold_dataset.iat[i+2,0] = ''
+                i += 3
 
             for data in dataset_data.itertuples(index=False,name=None):
                 if reference[1] == data[0]:
@@ -186,6 +193,9 @@ def convert_to_gold(dataset_path,reference_path,head):
                     portu = data[1]
                     promt_found = True
                     break
+
+            promt_id = reference[0]
+            promt = reference[1]
         else:
             if cleaning_punctuation_and_uppercase(portu) == cleaning_punctuation_and_uppercase(reference[0]):
                 weight = reference[1]
@@ -195,7 +205,8 @@ def convert_to_gold(dataset_path,reference_path,head):
 
 
     
-    return gold_dataset
+    return gold_dataset.drop([0,1,2])
+
 
 #######################################################################
 # Test code
@@ -288,6 +299,23 @@ def convert_to_gold(dataset_path,reference_path,head):
 
 # np.savetxt('CMPUT566-MOTH/datasets/gold_transformer/dataset2_trial3.txt', output, fmt='%s',encoding='utf-8')
 
+
+# output = convert_to_gold('CMPUT566-MOTH/datasets/Transformer_Result/result_dataset_3_trial1.csv','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
+
+# np.savetxt('CMPUT566-MOTH/datasets/gold_transformer/dataset3_trial1.txt', output, fmt='%s',encoding='utf-8')
+
+# output = convert_to_gold('CMPUT566-MOTH/datasets/Transformer_Result/result_dataset_3_trial2.csv','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
+
+# np.savetxt('CMPUT566-MOTH/datasets/gold_transformer/dataset3_trial2.txt', output, fmt='%s',encoding='utf-8')
+
+# output = convert_to_gold('CMPUT566-MOTH/datasets/Transformer_Result/result_dataset_3_trial3.csv','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
+
+# np.savetxt('CMPUT566-MOTH/datasets/gold_transformer/dataset3_trial3.txt', output, fmt='%s',encoding='utf-8')
+
+
+
+
+# Save Gold version of the RNN's Predictions Datasets
 
 # output = convert_to_gold('CMPUT566-MOTH/datasets/Transformer_Result/result_dataset_3_trial1.csv','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
 
