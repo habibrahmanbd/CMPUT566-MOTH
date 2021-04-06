@@ -5,6 +5,7 @@
 
 import numpy as np
 import pandas as pd
+import string
 from random import choices
 
 
@@ -146,10 +147,60 @@ def create_worst_baseline(dataset_path):
     
     return modified_dataset
 
+
+def cleaning_punctuation_and_uppercase(sentence):
+    sentence  = (sentence.translate(str.maketrans('', '', string.punctuation))).lower().rstrip()
+    return sentence
+
+# Convert dataset to gold format.
+# dataset_path: the directory where the raw data is.
+# reference_path: the directory of the dataset the raw data is trying to predict.
+# head: does raw data have a header line (None for no header and 0 for a header).
+def convert_to_gold(dataset_path,reference_path,head):
+    with open(dataset_path,'r',encoding="utf-8") as f:
+        dataset_data = pd.read_table(f,delimiter='|', dtype='U',header=head)
+
+    with open(reference_path,'r',encoding="utf-8") as f:
+        reference_data = pd.read_table(f,delimiter='|', dtype='U',header=None)
+    
+    gold_dataset = pd.DataFrame('',index=range(423*3), columns=['line'], dtype='U')
+
+                
+    portu = ''
+    weight = '0.0'
+    promt_found = False
+    i = 0
+    for reference in reference_data.itertuples(index=False,name=None):
+        if reference[0].startswith('prompt_'):
+            if promt_found:
+                gold_dataset.iat[i,0] = portu + '|' + weight
+                gold_dataset.iat[i+1,0] = ''
+                weight = '0.0'
+                i += 2
+                promt_found = False
+
+            for data in dataset_data.itertuples(index=False,name=None):
+                if reference[1] == data[0]:
+                    gold_dataset.iat[i,0] = reference[0] + '|' + data[0]
+                    i += 1
+                    portu = data[1]
+                    promt_found = True
+                    break
+        else:
+            if cleaning_punctuation_and_uppercase(portu) == cleaning_punctuation_and_uppercase(reference[0]):
+                weight = reference[1]
+    
+    gold_dataset.iat[i,0] = portu + '|' + weight
+    gold_dataset.iat[i+1,0] = ''
+
+
+    
+    return gold_dataset
+
 #######################################################################
 # Test code
 
-# output = create_testing_dataset('CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt')
+# output = convert_to_gold('CMPUT566-MOTH/datasets/Transformer_Result/result_dataset_1_trial1.csv','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
 
 # print(output)
 # print(output.shape)
@@ -206,3 +257,46 @@ def create_worst_baseline(dataset_path):
 # output = create_worst_baseline('CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt')
 
 # output.to_csv('CMPUT566-MOTH/datasets/baseline_datasets/worst.txt',sep="|",encoding='utf-8',index=False,header=False)
+
+
+
+
+# Save Gold version of the Transformer's Predictions Datasets
+
+# output = convert_to_gold('CMPUT566-MOTH/datasets/Transformer_Result/result_dataset_1_trial1.csv','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
+
+# np.savetxt('CMPUT566-MOTH/datasets/gold_transformer/dataset1_trial1.txt', output, fmt='%s',encoding='utf-8')
+
+# output = convert_to_gold('CMPUT566-MOTH/datasets/Transformer_Result/result_dataset_1_trial2.csv','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
+
+# np.savetxt('CMPUT566-MOTH/datasets/gold_transformer/dataset1_trial2.txt', output, fmt='%s',encoding='utf-8')
+
+# output = convert_to_gold('CMPUT566-MOTH/datasets/Transformer_Result/result_dataset_1_trial3.csv','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
+
+# np.savetxt('CMPUT566-MOTH/datasets/gold_transformer/dataset1_trial3.txt', output, fmt='%s',encoding='utf-8')
+
+
+# output = convert_to_gold('CMPUT566-MOTH/datasets/Transformer_Result/result_dataset_2_trial1.csv','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
+
+# np.savetxt('CMPUT566-MOTH/datasets/gold_transformer/dataset2_trial1.txt', output, fmt='%s',encoding='utf-8')
+
+# output = convert_to_gold('CMPUT566-MOTH/datasets/Transformer_Result/result_dataset_2_trial2.csv','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
+
+# np.savetxt('CMPUT566-MOTH/datasets/gold_transformer/dataset2_trial2.txt', output, fmt='%s',encoding='utf-8')
+
+# output = convert_to_gold('CMPUT566-MOTH/datasets/Transformer_Result/result_dataset_2_trial3.csv','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
+
+# np.savetxt('CMPUT566-MOTH/datasets/gold_transformer/dataset2_trial3.txt', output, fmt='%s',encoding='utf-8')
+
+
+# output = convert_to_gold('CMPUT566-MOTH/datasets/Transformer_Result/result_dataset_3_trial1.csv','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
+
+# np.savetxt('CMPUT566-MOTH/datasets/gold_transformer/dataset3_trial1.txt', output, fmt='%s',encoding='utf-8')
+
+# output = convert_to_gold('CMPUT566-MOTH/datasets/Transformer_Result/result_dataset_3_trial2.csv','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
+
+# np.savetxt('CMPUT566-MOTH/datasets/gold_transformer/dataset3_trial2.txt', output, fmt='%s',encoding='utf-8')
+
+# output = convert_to_gold('CMPUT566-MOTH/datasets/Transformer_Result/result_dataset_3_trial3.csv','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
+
+# np.savetxt('CMPUT566-MOTH/datasets/gold_transformer/dataset3_trial3.txt', output, fmt='%s',encoding='utf-8')
