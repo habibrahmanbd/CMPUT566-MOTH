@@ -1,0 +1,13 @@
+===============================GOLD vs AMAZON =======================================
+There are 500 keys in gold and 500 keys in pred.
+All predicted keys are in the gold. WELL DONE.
+Precision:         87.80%
+Recall:            0.65%
+Weighted Recall:   13.99%
+Micro F1:          1.29%
+Macro F1:          3.47%
+Weighted Micro F1: 24.13%
+Weighted Macro F1: 21.30%
+
+
+

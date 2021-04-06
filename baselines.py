@@ -69,3 +69,22 @@ print("Amazons's Bleu Score (percentage):",bleu_score*100)
 bleu_score = calculate_bleu_of_baseline('CMPUT566-MOTH/datasets/baseline_datasets/worst.txt','CMPUT566-MOTH/datasets/testing_datasets/test.txt')
 
 print("Worst's Bleu Score (percentage):",bleu_score*100)
+
+
+dataset1_trial1 = calculate_bleu_of_baseline(______,'CMPUT566-MOTH/datasets/testing_datasets/test.txt')
+dataset1_trial2 = calculate_bleu_of_baseline(______,'CMPUT566-MOTH/datasets/testing_datasets/test.txt')
+dataset1_trial3 = calculate_bleu_of_baseline(______,'CMPUT566-MOTH/datasets/testing_datasets/test.txt')
+
+print("Dataset 1's Bleu Score (percentage):",(dataset1_trial1 + dataset1_trial2 + dataset1_trial3)/3.0*100)
+
+dataset2_trial1 = calculate_bleu_of_baseline(______,'CMPUT566-MOTH/datasets/testing_datasets/test.txt')
+dataset2_trial2 = calculate_bleu_of_baseline(______,'CMPUT566-MOTH/datasets/testing_datasets/test.txt')
+dataset2_trial3 = calculate_bleu_of_baseline(______,'CMPUT566-MOTH/datasets/testing_datasets/test.txt')
+
+print("Dataset 2's Bleu Score (percentage):",(dataset2_trial1 + dataset2_trial2 + dataset2_trial3)/3.0*100)
+
+dataset3_trial1 = calculate_bleu_of_baseline(______,'CMPUT566-MOTH/datasets/testing_datasets/test.txt')
+dataset3_trial2 = calculate_bleu_of_baseline(______,'CMPUT566-MOTH/datasets/testing_datasets/test.txt')
+dataset3_trial3 = calculate_bleu_of_baseline(______,'CMPUT566-MOTH/datasets/testing_datasets/test.txt')
+
+print("Dataset 3's Bleu Score (percentage):",(dataset3_trial1 + dataset3_trial2 + dataset3_trial3)/3.0*100)
