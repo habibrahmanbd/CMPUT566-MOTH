@@ -315,23 +315,23 @@ def convert_to_gold(dataset_path,reference_path,head):
 
 # Save Gold version of the RNN's Predictions Datasets
 
-output = convert_to_gold('CMPUT566-MOTH/datasets/RNN_Result/predict.habib1.updated.txt','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
+# output = convert_to_gold('CMPUT566-MOTH/datasets/RNN_Result/predict.habib1.updated.txt','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
 
-np.savetxt('CMPUT566-MOTH/datasets/gold_rnn/dataset1_trial1_h.txt', output, fmt='%s',encoding='utf-8')
+# np.savetxt('CMPUT566-MOTH/datasets/gold_rnn/dataset1_trial1_h.txt', output, fmt='%s',encoding='utf-8')
 
-output = convert_to_gold('CMPUT566-MOTH/datasets/RNN_Result/predict.habib2.updated.txt','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
+# output = convert_to_gold('CMPUT566-MOTH/datasets/RNN_Result/predict.habib2.updated.txt','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
 
-np.savetxt('CMPUT566-MOTH/datasets/gold_rnn/dataset2_trial1_h.txt', output, fmt='%s',encoding='utf-8')
+# np.savetxt('CMPUT566-MOTH/datasets/gold_rnn/dataset2_trial1_h.txt', output, fmt='%s',encoding='utf-8')
 
 
-output = convert_to_gold('CMPUT566-MOTH/datasets/RNN_Result/predict.maisha1.updated.txt','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
+# output = convert_to_gold('CMPUT566-MOTH/datasets/RNN_Result/predict.maisha1.updated.txt','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
 
-np.savetxt('CMPUT566-MOTH/datasets/gold_rnn/dataset1_trial1_m.txt', output, fmt='%s',encoding='utf-8')
+# np.savetxt('CMPUT566-MOTH/datasets/gold_rnn/dataset1_trial1_m.txt', output, fmt='%s',encoding='utf-8')
 
-output = convert_to_gold('CMPUT566-MOTH/datasets/RNN_Result/predict.maisha2.updated.txt','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
+# output = convert_to_gold('CMPUT566-MOTH/datasets/RNN_Result/predict.maisha2.updated.txt','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
 
-np.savetxt('CMPUT566-MOTH/datasets/gold_rnn/dataset2_trial1_m.txt', output, fmt='%s',encoding='utf-8')
+# np.savetxt('CMPUT566-MOTH/datasets/gold_rnn/dataset2_trial1_m.txt', output, fmt='%s',encoding='utf-8')
 
-output = convert_to_gold('CMPUT566-MOTH/datasets/RNN_Result/predict.maisha3.updated.txt','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
+# output = convert_to_gold('CMPUT566-MOTH/datasets/RNN_Result/predict.maisha3.updated.txt','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
 
-np.savetxt('CMPUT566-MOTH/datasets/gold_rnn/dataset3_trial1_m.txt', output, fmt='%s',encoding='utf-8')
+# np.savetxt('CMPUT566-MOTH/datasets/gold_rnn/dataset3_trial1_m.txt', output, fmt='%s',encoding='utf-8')

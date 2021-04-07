@@ -35,7 +35,7 @@ def split_input_target(dataset):
     return [eng_sen, port_sen]
 
 def cleaning_punctuation_and_uppercase(sentence_list):
-    sentence_list  = [(sen.translate(str.maketrans('', '', string.punctuation))).lower().rstrip().split(' ') for sen in sentence_list]
+    sentence_list  = [(sen.translate(str.maketrans('', '', string.punctuation))).lower().strip().split(' ') for sen in sentence_list]
     return sentence_list
 
 
@@ -65,6 +65,9 @@ def calculate_bleu_of_baseline(baseline_path,reference_path,head):
 #######################################################################
 # Test code
 
+
+# Baseline's bleu score
+
 bleu_score = calculate_bleu_of_baseline('CMPUT566-MOTH/datasets/baseline_datasets/amazon.txt','CMPUT566-MOTH/datasets/testing_datasets/test.txt',False)
 
 print("Amazons's Bleu Score (percentage):",bleu_score*100)
@@ -73,6 +76,8 @@ bleu_score = calculate_bleu_of_baseline('CMPUT566-MOTH/datasets/baseline_dataset
 
 print("Worst's Bleu Score (percentage):",bleu_score*100)
 
+
+# Transformer's bleu score
 
 dataset1_trial1 = calculate_bleu_of_baseline('CMPUT566-MOTH/datasets/Transformer_Result/result_dataset_1_trial1.csv','CMPUT566-MOTH/datasets/testing_datasets/test.txt',True)
 dataset1_trial2 = calculate_bleu_of_baseline('CMPUT566-MOTH/datasets/Transformer_Result/result_dataset_1_trial2.csv','CMPUT566-MOTH/datasets/testing_datasets/test.txt',True)
