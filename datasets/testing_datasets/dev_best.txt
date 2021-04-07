@@ -1,0 +1,500 @@
+well, what did the boss say?|bem, o que o chefe disse?|0.09057569097239057
+it's fifty euros per person without the discount.|são cinquenta euros por pessoa sem o desconto.|0.20554127857009763
+do you have children already?|você já tem filhos?|0.04950495049504951
+i must go out.|eu preciso sair.|0.176149664755053
+are you kicking the table?|você está chutando a mesa?|0.6359604688388955
+i would like a cake, please.|eu gostaria de um bolo, por favor.|0.7139637763821003
+where is the best place to park at the hotel?|onde é o melhor lugar para estacionar no hotel?|0.03382682656908066
+you can wait here.|você pode esperar aqui.|0.6500693452146004
+is she at home?|ela está em casa?|0.7571346570357671
+where are they going now?|onde eles estão indo agora?|0.23610985419752686
+as you wish!|como você quiser!|0.09464951503555298
+which flight is less expensive?|qual voo é menos caro?|0.4735449020223566
+she cannot believe it.|ela não pode acreditar.|0.1957216590608493
+don't forget to give back my skates!|não se esqueça de devolver meus patins!|0.050600223097846696
+good luck at work.|boa sorte no trabalho.|0.7824227459479706
+our class read those books last month.|nossa turma leu aqueles livros no mês passado.|0.11655189813427798
+can we go to the bookstore?|nós podemos ir à livraria?|0.13308685622880048
+he takes a private route.|ele pega um caminho privado.|0.09174768476340937
+in ireland, it's useful to carry an umbrella.|na irlanda, é útil carregar um guarda-chuva.|0.3560691861271885
+the check, please.|a conta, por favor.|0.812855715833692
+what size are these shorts?|que tamanho são estes shorts?|0.08410551907269498
+he is preparing for a concert.|ele está se preparando para um concerto.|0.3314894904344877
+are they sitting together?|eles estão sentados juntos?|0.3425985594138428
+i'm checking my email.|eu estou verificando meu e-mail.|0.14929865159582917
+did you find anything on the web?|você encontrou algo na web?|0.1671015348405755
+lorena likes to listen to the violin.|lorena gosta de ouvir o violino.|0.2598933750556571
+you sign your name.|você assina seu nome.|0.4089874536650716
+try to find out if everything he said is true.|tente descobrir se tudo que ele disse é verdade.|0.03555054928450432
+they're taking the bus today.|eles estão pegando o ônibus hoje.|0.35861143102091475
+it is nothing serious.|não é nada sério.|0.22693470813637848
+very busy.|muito ocupado.|0.6305101429161091
+let's go to the zoo.|vamos para o zoológico.|0.4088738741136911
+it has a small and rich economy.|tem uma pequena e rica economia.|0.17771366787608056
+we're eating cake now.|nós estamos comendo bolo agora.|0.6179592153938375
+what should you do when you have an accident?|o que você deve fazer quando você tem um acidente?|0.05511896203011472
+she's recorded that song twice.|ela gravou aquela música duas vezes.|0.34098106764815306
+we wear boots on cold days.|nós usamos botas nos dias frios.|0.19219652741073245
+can you be my driver today?|você pode ser meu motorista hoje?|0.16474836465975526
+i've always been interested in fashion.|eu sempre fui interessado em moda.|0.18844407068479788
+don't put on too much makeup.|não coloque maquiagem demais.|0.17992277127815356
+she never takes medicine.|ela nunca toma remédio.|0.08907749904488228
+i have to open everything.|eu tenho que abrir tudo.|0.4251603755470597
+joseph lives in new york.|joseph mora em nova york.|0.18207567590978407
+it's almost eleven o'clock.|são quase onze horas.|0.1948409229955923
+the lawyer works on this floor.|o advogado trabalha neste andar.|0.4219739288493316
+somebody asked us to be quiet.|alguém nos pediu para ficar quietos.|0.025047566850686466
+does she write for a magazine?|ela escreve para uma revista?|0.6356811541317898
+the white sofa is soft, but the other is hard.|o sofá branco é macio, mas o outro é duro.|0.20242851431078515
+when it's hot, you should drink a lot of water.|quando está quente, você deve beber muita água.|0.027463500802984736
+golf players must practice hitting the ball.|jogadores de golfe devem praticar acertar a bola.|0.02852303161567406
+they have changed the password.|eles mudaram a senha.|0.3536528658314523
+what's your last name?|qual é o seu sobrenome?|0.19593072576466852
+how do they say their names?|como elas dizem os nomes delas?|0.061324177463625645
+it is like starting again.|é como começar de novo.|0.12108597622122848
+we will not make money with that.|nós não ganharemos dinheiro com aquilo.|0.054825313395592
+it's warm here in the spring.|é quente aqui na primavera.|0.43087782933439267
+i have a terrible toothache.|eu tenho uma terrível dor de dente.|0.0315162064794792
+they have followed me all day.|eles me seguiram o dia todo.|0.41419704144343344
+angela thinks the square, silver mirror is cool.|a ângela acha que o espelho de prata quadrado é legal.|0.004149377593360996
+i have six professors.|eu tenho seis professores.|0.5781351865970933
+are they having lunch downtown today?|eles vão almoçar no centro da cidade hoje?|0.2776379670617462
+the ducks had a meeting with the chickens.|os patos tiveram uma reunião com as galinhas.|0.2110707079575741
+he bought her a ring.|ele comprou um anel para ela.|0.4484617692631743
+the fried mushrooms are fantastic!|os cogumelos fritos são fantásticos!|0.14311628460117276
+the steak is served with a salad.|o bife é servido com uma salada.|0.46176865019790875
+they go out every friday.|eles saem toda sexta-feira.|0.25542859196921247
+he plays baseball very well.|ele joga beisebol muito bem.|0.4675857744408415
+it's too hot!|está quente demais!|0.40026584968855045
+she always eats a sandwich for lunch.|ela sempre come um sanduíche no almoço.|0.11870660010901325
+excuse me, are you mrs. brown?|com licença, você é a senhora brown?|0.033505549212660565
+i have a bag.|eu tenho uma bolsa.|0.5518018577012067
+he is neither a teacher nor a lawyer.|ele não é um professor nem um advogado.|0.10587198898711485
+i'm not wearing a jacket.|eu não estou vestindo uma jaqueta.|0.35609869120992366
+we are in search of signs to believe.|nós estamos à procura de sinais para acreditar.|0.10524087728745524
+i'm reading an interesting book.|eu estou lendo um livro interessante.|0.6409641554534946
+i have a colorful shirt.|eu tenho uma camisa colorida.|0.5388131645181498
+the actor's performance was excellent.|a performance do ator foi excelente.|0.10966138659254686
+do you think i should buy this ring?|você acha que eu devo comprar este anel?|0.03689067774385195
+luis has an egg.|luís tem um ovo.|0.11764705882352941
+a small cup.|uma xícara pequena.|0.392326596183642
+he decided to choose a red cellphone.|ele decidiu escolher um celular vermelho.|0.3477716639456958
+we may go to work.|talvez vamos trabalhar.|0.012196376715710954
+science is the most difficult subject for me.|ciências é a matéria mais difícil para mim.|0.09624422535476312
+he continues walking.|ele continua caminhando.|0.4676006437614111
+his clothes are very old.|as roupas dele são muito velhas.|0.0858298886084295
+my computer screen is bigger than his.|a tela do meu computador é maior que a dele.|0.0370927839211155
+i will be paying with a credit card.|eu estarei pagando com um cartão de crédito.|0.15464382392172385
+did you make a mistake?|você cometeu um erro?|0.2733656619494983
+the boys will be eating rice with chicken at my house.|os meninos estarão comendo arroz com frango na minha casa.|0.05138338152641021
+that is a lot to consider.|isso é muito a considerar.|0.08558526117928364
+what disease does he have?|qual doença ele tem?|0.17919558718721937
+i need new shoes.|eu preciso de sapatos novos.|0.299596181722349
+i will arrive saturday.|eu chegarei sábado.|0.2067466158533635
+she finished work fifteen minutes ago.|ela terminou o trabalho quinze minutos atrás.|0.16525163454274971
+i walk towards them.|eu caminho em direção a eles.|0.09579927688785587
+wow, i can't believe that!|uau, eu não posso acreditar nisso!|0.23499755573779496
+where did you buy the chemistry textbook?|onde você comprou o livro didático de química?|0.05775939584230161
+all right, thanks!|tudo certo, obrigado!|0.20683586340866514
+our house is half a mile from here.|nossa casa fica a meia milha daqui.|0.15288852762122038
+where should we put the trash?|onde nós devemos colocar o lixo?|0.26031706094253293
+under the house.|debaixo da casa.|0.5294841182857843
+we speak chinese and english.|nós falamos chinês e inglês.|0.6974899602239333
+does your eye hurt?|seu olho dói?|0.4641749642806315
+i can't wait.|eu não posso esperar.|0.5467808189924904
+the restaurant is past the bus station.|o restaurante é além da rodoviária.|0.028623206581590205
+they support the cause.|eles apoiam a causa.|0.3834664621672603
+this cup is clean.|esta xícara está limpa.|0.3728562080988511
+when did their airplane take off?|quando o avião deles decolou?|0.0979658872163066
+this hotel does not serve lunch.|este hotel não serve almoço.|0.5218646849679219
+thirteen, fourteen, fifteen.|treze, quatorze, quinze.|0.34006384703132303
+we save money to open a restaurant.|nós guardamos dinheiro para abrir um restaurante.|0.22935028463289026
+i'm fine, thanks.|eu estou bem, obrigado.|0.2641066228487081
+young and beautiful.|jovem e linda.|0.2378873432524541
+she heard the sound of the river.|ela ouviu o som do rio.|0.5623368379952217
+we've already seen both of those places.|nós já vimos ambos aqueles lugares.|0.07544070421012507
+the phrase is very long.|a frase é muito longa.|0.27220625516001407
+he's angry because he has waited for you all morning.|ele está zangado porque ele esperou por você a manhã toda.|0.007110524817458172
+where's the bus stop?|onde é o ponto de ônibus?|0.2037934913797698
+can i take a taxi to the hotel?|eu posso pegar um táxi até o hotel?|0.19333343868966646
+it rained hard last night.|choveu forte na noite passada.|0.09642809735754869
+he comes from a village in china.|ele vem de um vilarejo na china.|0.1707542654872434
+i'm going to study in france next year.|eu vou estudar na frança no próximo ano.|0.15212511892363179
+really bad.|realmente ruim.|0.3471299177103631
+all of the doctors are nice.|todos os médicos são gentis.|0.2208528645794091
+where does he want to go?|onde ele quer ir?|0.09340627281954801
+do you know a good doctor?|você conhece um bom médico?|0.22659669425316703
+this hat is too big.|este chapéu é grande demais.|0.3201610706242743
+you deliver the food.|você entrega a comida.|0.6331366387313245
+hello, how are you?|olá, como você está?|0.26238872335135166
+thanks, see you later!|obrigado, até mais tarde!|0.10153351670523085
+which sport is the most dangerous?|qual esporte é o mais perigoso?|0.20827624299794695
+that's not real gold, is it?|isso não é ouro de verdade, é?|0.2205313102715526
+the dog has something in its mouth.|o cachorro tem algo na boca dele.|0.15462897777644954
+was there a light in the bathroom?|havia uma luz no banheiro?|0.198559028991855
+are you in this line?|você está nesta fila?|0.5547241583861013
+you need to work hard.|você precisa trabalhar duro.|0.21914477604363752
+what's your first name?|qual é o seu primeiro nome?|0.20256238351401382
+my husband has a degree in history.|meu marido tem um diploma em história.|0.2438619981169486
+bring the old battery to the store.|traga a bateria velha para a loja.|0.04595397757167687
+everybody wants to drive a cleaner car.|todo mundo quer dirigir um carro mais limpo.|0.30386957911265233
+you guys can leave your bags on these shelves.|vocês podem deixar suas bolsas nestas prateleiras.|0.03082063123714151
+we work together.|nós trabalhamos juntos.|0.6591482303461712
+what does he look like?|como ele se parece?|0.3643140273274574
+make sure that this is the right address.|certifique-se que este é o endereço certo.|0.00904977375565611
+there's a clock in my room.|há um relógio no meu quarto.|0.39332447613941207
+i will give you the money tomorrow.|eu darei o dinheiro a você amanhã.|0.04559048117070306
+if your aunt allows it.|se sua tia permitir.|0.05306573379389497
+he put the stamps in his cigarette case.|ele colocou os selos no estojo de cigarro dele.|0.12645722763710465
+he covered his face because of the wind.|ele cobriu o rosto dele por causa do vento.|0.19947462943942543
+music is my daughter's favorite subject.|música é a matéria favorita da minha filha.|0.1837539006954795
+let's ask a salesperson.|vamos perguntar a um vendedor.|0.3960307949602878
+the balloons are filled with water.|os balões estão cheios de água.|0.2692903715367629
+there's nothing under the sofa.|não há nada debaixo do sofá.|0.250778532224847
+i don't remember the address.|eu não me lembro do endereço.|0.21832138298270282
+were you sleeping during the meeting?|você estava dormindo durante a reunião?|0.3085182992852628
+the computers in the laboratory work at high speed.|os computadores no laboratório trabalham em alta velocidade.|0.1186809795486775
+she doesn't remember me anymore.|ela não se lembra mais de mim.|0.3221104722344444
+the blanket does not fit in that bag.|o cobertor não cabe nessa bolsa.|0.16883370698640782
+my friend's house.|a casa do meu amigo.|0.2954194782479383
+where does she work?|onde ela trabalha?|0.43880635937725654
+running is boring.|correr é chato.|0.5812480640276355
+i heard an owl last night.|eu ouvi uma coruja na noite passada.|0.21658597079383107
+he was out of line at the party.|ele passou da conta na festa.|0.13045519653102147
+the youth eat in the garden.|a juventude come no jardim.|0.5392963544957171
+the driver was not hurt.|o motorista não foi ferido.|0.1264001846399792
+which jeans do you like?|qual jeans você gosta?|0.2511144922148135
+you will feel better tomorrow.|você se sentirá melhor amanhã.|0.445002547148014
+are there rats in this building?|há ratos neste prédio?|0.21515218241050352
+let's ask for a discount.|vamos pedir um desconto.|0.5294173544742343
+his house is in the valley.|a casa dele é no vale.|0.23374074805612324
+when can i pick up my order?|quando eu posso pegar meu pedido?|0.10272561646794218
+could i get another spoon?|você poderia me trazer outra colher?|0.03487717864574689
+put your coat on.|coloque seu casaco.|0.23654882997437673
+the bus is turning right.|o ônibus está virando à direita.|0.47116401813679704
+the meal was not perfect.|a refeição não estava perfeita.|0.2361328924888942
+i am rosa, what is your name?|eu sou rosa, qual é seu nome?|0.11590962899081439
+we need a contract.|nós precisamos de um contrato.|0.3437119720005829
+oh, my feet hurt.|oh, meus pés doem.|0.3187486997908261
+i need new boots.|eu preciso de botas novas.|0.29448920649267
+i thought that she would not come anymore.|eu pensei que ela não viria mais.|0.03918884923214775
+they will present the plan.|eles vão apresentar o plano.|0.27668979836643415
+he would be happy to hear that.|ele ficaria feliz em ouvir isso.|0.05209240588352678
+the bathroom floor.|o chão do banheiro.|0.5241682400177532
+are you from portugal?|você é de portugal?|0.6803127539658783
+he is taking time off from work.|ele está tirando uma folga do trabalho.|0.04375687154241882
+i'll take the lighter suitcase.|eu levarei a mala mais leve.|0.1319953798665484
+they stayed in morocco for a few days.|eles ficaram no marrocos por alguns dias.|0.03091071312358759
+they live five miles away.|eles moram a cinco milhas de distância.|0.08851029965175235
+i want to live in italy.|eu quero morar na itália.|0.211621255722737
+i got an extra dessert for free.|eu recebi uma sobremesa extra de graça.|0.062391627249887435
+my glasses were broken when i fell.|meus óculos foram quebrados quando eu caí.|0.12010451834684982
+we lost all of our luggage!|nós perdemos toda nossa bagagem!|0.356714454394127
+unfortunately, my husband has to work on sunday.|infelizmente, meu marido tem que trabalhar no domingo.|0.06557508658763236
+go downstairs for the party.|vá para o andar de baixo para a festa.|0.20709253449016946
+she's not buying anything.|ela não está comprando nada.|0.5670420283010694
+she enjoyed dancing with her husband.|ela curtiu dançar com o marido dela.|0.1288977382688529
+i need a favor.|eu preciso de um favor.|0.5732752433238992
+make sure the light in the bedroom is off.|certifique-se de que a luz no quarto está desligada.|0.014868243709436393
+i was waiting for my friend.|eu estava esperando pelo meu amigo.|0.08183549233177358
+the queen got better immediately.|a rainha melhorou imediatamente.|0.6677584055476246
+they've lived in australia for a long time.|eles moraram na austrália por muito tempo.|0.042339941040237625
+his ex-wife will talk to him by saturday.|a ex-esposa dele falará com ele até sábado.|0.06121995985115791
+was fernanda invited?|fernanda foi convidada?|0.36083251917423015
+duo loves flying over the river.|duo ama voar sobre o rio.|0.3681440075096224
+what time do they eat lunch?|a que horas eles almoçam?|0.11129104148971607
+the signal comes from a large town.|o sinal vem de uma cidade grande.|0.3627633103185712
+did you get any toys?|você recebeu algum brinquedo?|0.23643535226145132
+my favorite colors are blue and green.|minhas cores favoritas são azul e verde.|0.2378506470315776
+when do you need to give back the skateboard?|quando você precisa devolver o skate?|0.1868604810821965
+now that you know the truth it is possible for you to feel better.|agora que você sabe a verdade, é possível que você se sinta melhor.|0.12407210642986728
+you have tried to live like them.|você tentou viver como eles.|0.25981642137949024
+the heat will turn off by itself.|o aquecimento se desligará sozinho.|0.0999571890297304
+we have to work tonight.|nós temos que trabalhar hoje à noite.|0.06850262963568043
+look at the sign on the door.|olhe a placa na porta.|0.1694100102932023
+the ducks ran so fast!|os patos correram tão rápido!|0.3600130721671799
+she had a healthy baby.|ela teve um bebê saudável.|0.2506111775851621
+i visited my grandmother one year ago.|eu visitei minha avó um ano atrás.|0.10625481138918448
+he put the keys in his bag last night.|ele colocou as chaves na bolsa dele ontem à noite.|0.01781844156235226
+he hurt his arm when he threw the ball.|ele machucou o braço dele quando ele jogou a bola.|0.037452065973418006
+how much cheese do you need?|quanto queijo você precisa?|0.12782344075732044
+i know what his name is.|eu sei qual é o nome dele.|0.14710105456820824
+does that include breakfast?|isso inclui café da manhã?|0.05259073343053263
+i'd like some vegetables.|eu gostaria de alguns legumes.|0.19949960377040732
+they had led the country.|eles tinham liderado o país.|0.27293977185997575
+go upstairs.|vá para o andar de cima.|0.15529079656147463
+just a moment, please.|só um momento, por favor.|0.07032554366348377
+what time is the flight to the island?|a que horas é o voo para a ilha?|0.2695948911022634
+they will stay at the hotel.|eles vão ficar no hotel.|0.2687708784386412
+where are they going afterward?|onde eles vão depois?|0.12274697587145895
+do you eat onion?|você come cebola?|0.21014086471682566
+we jumped over the chain.|nós pulamos por cima da corrente.|0.20336273750488632
+do you like to fly?|você gosta de voar?|0.6809992955981169
+some of the workers aren't here.|alguns dos funcionários não estão aqui.|0.19788741106340602
+what were you drinking that night?|o que você estava bebendo aquela noite?|0.03116025598571781
+all of the passengers were sleeping during the flight.|todos os passageiros estavam dormindo durante o voo.|0.44893661668094587
+how many eggs does fred want in his omelet?|quantos ovos fred quer no omelete dele?|0.09491323927895805
+we didn't go to the same college.|nós não fomos para a mesma faculdade.|0.1768031416817761
+i want to buy eight glasses.|eu quero comprar oito copos.|0.36459888363982346
+the actress has lived in california since 2013.|a atriz vive na califórnia desde 2013.|0.06453763177550337
+what will the winner receive?|o que o vencedor receberá?|0.0955662754809396
+was your flight delayed?|seu voo estava atrasado?|0.23873253782471043
+he will say it is impossible.|ele vai dizer que é impossível.|0.22033231570160788
+i needed to create a new profile.|eu precisei criar um novo perfil.|0.06636458262788154
+turn off the light when you leave the room.|desligue a luz quando você sair do quarto.|0.11450419567354486
+i never met them.|eu nunca os conheci.|0.22781903742095297
+i took a shower this morning.|eu tomei um banho esta manhã.|0.12832602905181942
+what were you doing that night at my house?|o que você estava fazendo aquela noite na minha casa?|0.00888015001658852
+first, go straight on this road.|primeiro, vá reto nesta estrada.|0.024619664562431042
+you will sleep in the guest room.|você vai dormir no quarto de hóspedes.|0.2548164105386864
+my friend hears a flute.|meu amigo ouve uma flauta.|0.26503321047025524
+the girls take the books off the table.|as meninas retiram os livros da mesa.|0.06499410797620943
+john has the easiest job.|john tem o trabalho mais fácil.|0.1702335009175267
+where were you born?|onde você nasceu?|0.41377667845221056
+is that made of chocolate?|isso é feito de chocolate?|0.07225109631464378
+it is ten degrees this morning.|está dez graus esta manhã.|0.04742904625292095
+my grandfather was a soldier during the war.|meu avô foi um soldado durante a guerra.|0.17145888555238753
+do you want to meet my parents?|você quer conhecer meus pais?|0.12140185132220811
+how much bread does the boy eat?|quanto pão o menino come?|0.07436484836789124
+is this emma's doll?|esta é a boneca da emma?|0.2019023613386663
+i really liked the ice cream.|eu realmente gostei do sorvete.|0.09417829915153593
+could i look at a menu?|eu poderia olhar o menu?|0.14565416968732586
+i would like a cup of tea.|eu gostaria de uma xícara de chá.|0.5716439535439091
+well, i don't believe that.|bem, eu não acredito nisso.|0.2609022179515453
+i'm going to visit my family in december.|eu vou visitar minha família em dezembro.|0.2787768863935417
+he is responsible for the meter.|ele é responsável pelo medidor.|0.35812914056835543
+they design the shoes.|eles desenham os sapatos.|0.13733502564824498
+what does she drink?|o que ela bebe?|0.3957593033204519
+we have light blue paint.|nós temos tinta azul claro.|0.3124054029416724
+i want to see a bird.|eu quero ver um pássaro.|0.2766897998091205
+we're flying to canada.|nós estamos voando para o canadá.|0.5834274783414646
+there were a lot of teenagers at the concert.|havia muitos adolescentes no concerto.|0.2418744088951174
+i love playing music with a group.|eu amo tocar música com um grupo.|0.18419256455079552
+they stayed with a family of turtles for ten days.|eles ficaram com uma família de tartarugas por dez dias.|0.0652070218779672
+they announce his book.|eles anunciam seu livro.|0.2783601368771858
+what does she have?|o que ela tem?|0.581081139965265
+you should add more oil.|você deve adicionar mais óleo.|0.11033914901171923
+show us your pictures.|mostre-nos suas imagens.|0.05185659173286664
+we work together at a bank.|nós trabalhamos juntos em um banco.|0.43533310704655287
+can i have a cigarette?|você pode me dar um cigarro?|0.10131978031458037
+they don't have any extra beds.|eles não têm nenhuma cama extra.|0.2932538723802828
+where is the station?|onde é a estação?|0.37625203791649175
+he will get back on tuesday.|ele voltará na terça-feira.|0.17612478413476418
+what does your wife want to eat?|o que sua esposa quer comer?|0.03650118569661938
+do they have a house?|eles têm uma casa?|0.3280654056515635
+i hurt my leg while i was playing soccer.|eu machuquei minha perna enquanto eu estava jogando futebol.|0.04771829159851411
+the dark gray tights look good with that dress.|a meia-calça cinza escuro fica bem com aquele vestido.|0.007910130044001241
+my favorite band is on the radio.|minha banda favorita está no rádio.|0.1254141567098488
+a half cup of oil.|meia xícara de óleo.|0.11713241122041856
+which paint do you like?|qual tinta você gosta?|0.11386003829326248
+she likes you very much.|ela gosta muito de você.|0.35092068925696995
+i've always loved geography.|eu sempre amei geografia.|0.5359894660803491
+can i try on that dress?|eu posso experimentar aquele vestido?|0.2954643454101986
+the bear did not drink your beer.|o urso não bebeu sua cerveja.|0.35603428405026044
+it is a new application.|é um novo aplicativo.|0.16171000486904433
+the meal was excellent.|a refeição estava excelente.|0.23065738293131374
+my girlfriend wants to go to salvador.|minha namorada quer ir para salvador.|0.2689704287767305
+there is strength in numbers.|há força nos números.|0.2631863594731982
+is this restaurant famous?|este restaurante é famoso?|0.394037011542163
+what do i have money for?|para que eu tenho dinheiro?|0.023809523809523808
+excuse me, do you speak english?|com licença, você fala inglês?|0.3531416158757645
+why don't you lie down for a few minutes?|por que você não se deita por alguns minutos?|0.09270531582957514
+i need to find the bridge to the castle.|eu preciso encontrar a ponte para o castelo.|0.11303302550302823
+owls can hear very well.|corujas podem ouvir muito bem.|0.4766541278208351
+does he have a coat?|ele tem um casaco?|0.399977167140629
+everything in the store is on sale today!|tudo na loja está em promoção hoje!|0.3128430054830019
+do you have a jacket?|você tem uma jaqueta?|0.42825277774730164
+she had just walked home.|ela acabou de caminhar para casa.|0.04403215063748322
+how many times have they entered this competition?|quantas vezes eles entraram nesta competição?|0.05989546742467792
+patricia studies music.|patrícia estuda música.|0.3500669919940414
+you don't need to pay.|você não precisa pagar.|0.5844147216823896
+i'm not working right now.|eu não estou trabalhando neste momento.|0.22138111345876862
+is this your plate?|este é seu prato?|0.26549868402642157
+this sofa is the perfect color!|este sofá é da cor perfeita!|0.14706568456210853
+he is too young to understand the consequences.|ele é muito jovem para entender as consequências.|0.14684274085018462
+i want to take the guests to the beach.|eu quero levar os convidados para a praia.|0.10835900600343204
+i brought some cash for the taxi.|eu trouxe algum dinheiro para o táxi.|0.18863847809163253
+i work at a restaurant.|eu trabalho em um restaurante.|0.6696075380259013
+it was nearly midnight when they arrived.|era quase meia-noite quando eles chegaram.|0.19725339059822974
+which one did she choose?|qual ela escolheu?|0.5374193064401861
+how much alcohol is in this drink?|quanto álcool tem nesta bebida?|0.027886859001388695
+he's bigger and stronger than us.|ele é maior e mais forte do que nós.|0.4521561681777204
+he does not like the music i listen to.|ele não gosta da música que eu escuto.|0.22723875331088875
+it's the best movie of the year.|é o melhor filme do ano.|0.3140934802530957
+we will get there in two hours.|nós chegaremos lá em duas horas.|0.06736473333914911
+the hotel staff were paid well.|a equipe do hotel era bem paga.|0.03217208957527766
+when do you eat breakfast?|quando você toma café da manhã?|0.03167852536553782
+where do you come from?|de onde você vem?|0.36271597675848427
+does she drink her coffee black or with cream?|ela bebe o café dela preto ou com creme?|0.08640428260288495
+she wants to get everything except the hat.|ela quer adquirir tudo, exceto o chapéu.|0.01294481942009895
+why is the table painted in red?|por que a mesa está pintada de vermelho?|0.24637762672027377
+those boots are mine.|aquelas botas são minhas.|0.34079211358968264
+when do you play volleyball?|quando você joga vôlei?|0.20783522241003297
+good luck with your new job.|boa sorte com seu novo trabalho!|0.17254532519169843
+we got a set of dishes for them.|nós adquirimos um conjunto de pratos para eles.|0.040979128997341956
+the fall is pretty interesting.|o outono é bem interessante.|0.2018827280880329
+see you next week, take care!|vejo você na próxima semana, se cuida!|0.07232089344883151
+the results are still under analysis.|os resultados ainda estão sob análise.|0.11370118475906511
+there are snacks in the fridge.|há lanches na geladeira.|0.4133202974190433
+i would leave the desk in the office.|eu deixaria a mesa no escritório.|0.03550512666453362
+my sister only eats healthy food.|minha irmã só come comida saudável.|0.14593398167733512
+the lawyer thought the actor had died.|o advogado pensou que o ator tinha morrido.|0.10107863533621671
+does the photographer sell this photo in color?|o fotógrafo vende esta foto em cores?|0.09634948517759219
+the opening of the library is tomorrow.|a abertura da biblioteca é amanhã.|0.22727409140293367
+there was only one chair at that restaurant.|havia apenas uma cadeira naquele restaurante.|0.061107545143473684
+i want to win again.|eu quero ganhar de novo.|0.19545565275802998
+are we going to the play tomorrow?|nós vamos para a peça amanhã?|0.07129744115862949
+do you know his phone number?|você sabe o número de telefone dele?|0.06624780804801568
+the animal is running through the forest.|o animal está correndo pela floresta.|0.5002316818597391
+i need something to eat.|eu preciso de algo para comer.|0.24217113078513097
+he had not heard me.|ele não tinha me escutado.|0.26602647070122065
+let's go snowboarding soon.|vamos praticar snowboard em breve.|0.2138545097000938
+for how much will she sell them?|por quanto ela os venderá?|0.21910574694792337
+unfortunately, my grandson has a stomachache.|infelizmente, meu neto está com dor de estômago.|0.1357113861504078
+i need to study for the history exam.|eu preciso estudar para a prova de história.|0.08111666314963754
+we work at a school.|nós trabalhamos em uma escola.|0.4568512358016688
+he wakes up at 6 a.m.|ele acorda às 6 da manhã.|0.17958568843212977
+something is wrong.|algo está errado.|0.5075683276943046
+which mug is hers?|qual caneca é dela?|0.3373802683519112
+click twice to open the file.|clique duas vezes para abrir o arquivo.|0.41460322845138775
+the mall will be on the left, before the stadium.|o shopping estará à esquerda, antes do estádio.|0.04646936821715568
+that was an act of love.|isso foi um ato de amor.|0.20980876947443758
+my uncle's life was hard.|a vida do meu tio foi difícil.|0.10180312933220546
+i heard an advertisement on the radio.|eu ouvi um anúncio no rádio.|0.2887793182608683
+this artist might become famous.|pode ser que este artista se torne famoso.|0.0967734940322179
+i'm really hungry.|eu estou realmente com fome.|0.2111823817554423
+my father is a famous lawyer.|meu pai é um advogado famoso.|0.31041705145156917
+where is the restaurant?|onde é o restaurante?|0.44664889544142644
+when is the next presentation?|quando é a próxima apresentação?|0.5249838065656355
+i listen except when he speaks.|eu escuto, exceto quando ele fala.|0.005661662968980651
+today i eat with the judge.|hoje eu como com o juiz.|0.4210029844842271
+i want to touch my foot.|eu quero tocar meu pé.|0.39841914884128443
+what are you going to do first?|o que você vai fazer primeiro?|0.13798163455753007
+her sister plays baseball.|a irmã dela joga beisebol.|0.15832418739377044
+do you have a tv?|você tem uma tv?|0.19391522461338262
+we must cross this river.|nós devemos cruzar este rio.|0.12222308778051068
+she cannot ride her bike very fast.|ela não pode andar na bicicleta dela muito rápido.|0.045329194354028816
+i can't see them.|eu não posso vê-los.|0.2074735966539257
+it is a serious question.|é uma pergunta séria.|0.10480569193750085
+where is the train station?|onde é a estação de trem?|0.17502499345496508
+i'm taking a european history class.|eu estou fazendo uma aula de história europeia.|0.028645673322554514
+she likes her occupation.|ela gosta da ocupação dela.|0.11808822446422776
+i have never worked at an airport.|eu nunca trabalhei em um aeroporto.|0.633032235862792
+we have three bathrooms.|nós temos três banheiros.|0.6352580951052949
+they are walking too fast.|eles estão andando rápido demais.|0.14919396767019608
+do you have a sister?|você tem uma irmã?|0.670408853052298
+the king couldn't see the path in the fog.|o rei não podia ver o caminho no nevoeiro.|0.06710276656556173
+why is it personal?|por que é pessoal?|0.17179046008136917
+my finger hurts.|meu dedo dói.|0.7048293693166032
+fernanda studies at a university near here.|fernanda estuda em uma universidade perto daqui.|0.2160899630994105
+well, we've already had cake and ice cream.|bem, nós já comemos bolo e sorvete.|0.23309865224258575
+it is three o'clock.|são três horas.|0.602779841332821
+they were lost for two days.|eles ficaram perdidos por dois dias.|0.11040922851955959
+mrs. brown, is your husband here?|sra brown, seu marido está aqui?|0.10326283009022819
+i was skating when i fell and hurt myself.|eu estava patinando quando eu caí e me machuquei.|0.26626702247625367
+he wants us to take the bus.|ele quer que nós peguemos o ônibus.|0.13339065719867216
+my parents always buy healthy food.|meus pais sempre compram comida saudável.|0.18947781475407596
+i used too much oil.|eu usei óleo demais.|0.07395626476128275
+that country has a different currency.|aquele país tem uma moeda diferente.|0.24647158060711005
+this breakfast is not good.|este café da manhã não está bom.|0.16519470873376596
+he's looking at you.|ele está olhando para você.|0.5286249668270732
+my sister is happy.|minha irmã está feliz.|0.4517635198341841
+you ask the same thing.|você pergunta a mesma coisa.|0.23570226039551584
+the boy looks at her and smiles.|o menino olha para ela e sorri.|0.47650092422749846
+can i have more bread?|você pode me trazer mais pão?|0.12924748579641973
+we thank the architect.|nós agradecemos ao arquiteto.|0.14282240666650728
+we're not going anywhere tonight.|nós não vamos a lugar nenhum hoje à noite.|0.030405574084212513
+i never wear makeup.|eu nunca uso maquiagem.|0.6331345528957566
+did you work in the same office?|você trabalhou no mesmo escritório?|0.6213720546074832
+what color is the bird?|que cor é o pássaro?|0.1359254340121677
+which bus stop is closer?|qual ponto de ônibus é mais perto?|0.09422988435494112
+i enjoy fishing with them.|eu curto pescar com eles.|0.2854281007554145
+she goes to class every monday.|ela vai para a aula toda segunda.|0.1650160365655757
+she felt ok yesterday.|ela se sentiu bem ontem.|0.35088436187052413
+we sat next to each other.|nós sentamos um ao lado do outro.|0.043550907144835484
+we live in the age of technology.|nós vivemos na era da tecnologia.|0.2890138100320222
+we studied german in school.|nós estudamos alemão na escola.|0.6150124160085362
+the leader gave a speech yesterday.|o líder fez um discurso ontem.|0.32490313754802824
+can you tell me the price of these shorts?|você pode me dizer o preço destes shorts?|0.09402327050255066
+the new school will offer programs for children.|a nova escola vai oferecer programas para crianças.|0.06151951118426896
+the sheep eat quite a lot of fast food.|as ovelhas comem bastante fast food.|0.06706184788076165
+we have pets.|nós temos animais de estimação.|0.5326943728350202
+that hat is expensive.|aquele chapéu é caro.|0.5384736508375537
+michael lost one of his gloves.|michael perdeu uma das luvas dele.|0.2076878316660442
+where's our taxi?|onde está nosso táxi?|0.5101147523889833
+this is the hospital which i was born in.|este é o hospital que eu nasci.|0.21353053608809552
+while we were sleeping, someone stole our bikes.|enquanto nós estávamos dormindo, alguém roubou nossas bicicletas.|0.20192248747965935
+my father did not drink wine yesterday.|meu pai não bebeu vinho ontem.|0.5822311765878514
+i'm playing tennis this summer.|eu estou jogando tênis este verão.|0.153300438815567
+are we going to eat dinner at 7 p.m.?|nós vamos jantar às 7 da noite?|0.08227994067942555
+there are further details on the last page.|há mais detalhes na última página.|0.4329104800476445
+those pillows belong to my roommate.|aqueles travesseiros pertencem ao meu colega de quarto.|0.22961003361778812
+his favorite color is green.|a cor favorita dele é verde.|0.41955089760467634
+we live in a house.|nós moramos em uma casa.|0.3510301215816913
+she's not in her regular seat.|ela não está no assento habitual dela.|0.06573025751298991
+i want to tell him everything.|eu quero contar tudo para ele.|0.08877504500580903
+you nearly missed the appointment.|você quase perdeu o compromisso.|0.31999689406065746
+his father had died of the same illness.|o pai dele tinha morrido da mesma doença.|0.09800614506830074
+you need a blood test.|você precisa de um exame de sangue.|0.11022865460147287
+i will stay one night.|eu vou ficar uma noite.|0.35129134819282715
+can you explain this concept?|você pode explicar este conceito?|0.11136038239508553
+a steak sandwich.|um sanduíche de bife.|0.49599864913630715
+i'm going to take a class in january.|eu vou fazer uma aula em janeiro.|0.04294833251890047
+very tall.|muito alto.|0.7082011945067294
+oh, i ate too many sweets!|oh, eu comi doces demais!|0.12016493634907281
+don't click on the ad.|não clique no anúncio.|0.4574083806096421
+she thinks she's in love with that guy.|ela acha que ela está apaixonada por aquele cara.|0.053285941996219256
+she hurt herself while she was playing hockey.|ela se machucou enquanto ela estava jogando hóquei.|0.037774926384711215
+there is wi-fi at this café, isn't there?|há wifi nesta cafeteria, não há?|0.05325226380473683
+i cook for the community.|eu cozinho para a comunidade.|0.7202681502859511
+do you like these jeans?|você gosta deste jeans?|0.32652999204896804
+he has won many awards.|ele ganhou muitos prêmios.|0.10479699425855137
+where did they work?|onde eles trabalharam?|0.48039369595565357
+do they work every day?|eles trabalham todos os dias.|0.16822035471825234
+do you remember that trip?|você se lembra daquela viagem?|0.3007281233840751
+i am in search of new knowledge.|eu estou em busca de novo conhecimento.|0.12040264341628285
+the weather was nice in morocco.|o tempo estava bom em marrocos.|0.12224590486554533
+i'm happy to stay longer.|eu estou disposto a ficar mais tempo.|0.06157122194652483
+eat pasta whenever you want.|coma massa sempre que você quiser.|0.029210754861730002
+i don't know the way to the stadium.|eu não sei o caminho para o estádio.|0.4202902887068576
+the professor usually writes on the blackboard.|o professor normalmente escreve no quadro negro.|0.061403069320263626
+we cannot hear the music.|nós não podemos ouvir a música.|0.38958382250949136
+do you know how important your grades are?|você sabe como suas notas são importantes?|0.023172656308435936
+this is what will change us.|isso é o que nos mudará.|0.02197802197802198
+was there someone outside her room?|havia alguém fora do quarto dela?|0.16441241500760986
+we have two girls.|nós temos duas meninas.|0.4611648997053681
+it'll be difficult.|será difícil.|0.30617367041444044
+mom said you should eat fewer cookies.|mamãe disse que você deveria comer menos biscoitos.|0.03594638277849298
+he drank a glass of wine, and then he went to sleep.|ele bebeu um copo de vinho, e depois ele foi dormir.|0.11665166910303383
+my roommate is studying african religions.|meu colega de quarto está estudando religiões africanas.|0.20754199030805007
+my father has been to australia twice.|meu pai esteve duas vezes na austrália.|0.044444444444444446
+our families live near here.|nossas famílias vivem perto daqui.|0.10094353753077162
+we were driving until midnight last night.|nós estávamos dirigindo até a meia-noite na noite passada.|0.04939841885250148
+my department has a staff of 30 people.|meu departamento tem uma equipe de 30 pessoas.|0.1026231318613621
+my brother is happy.|meu irmão está feliz.|0.45662536014640076
+he slept for only four hours last night.|ele dormiu por apenas quatro horas na noite passada.|0.035695952550632626
+i do not get up early on fridays.|eu não levanto cedo nas sextas-feiras.|0.15226111270736567
+i will give you an answer in a day or two.|eu vou te dar uma resposta em um dia ou dois.|0.017866110790432033
+she's an excellent singer.|ela é uma excelente cantora.|0.3743226245579352
+what a beautiful garden you have!|que lindo jardim você tem!|0.014349651261555043
+which blouse do you like?|qual blusa você gosta?|0.3666701545956754
+our team never wins.|nosso time nunca vence.|0.26128095307178784
+i could not find my glasses.|eu não pude encontrar meus óculos.|0.018371023171152162
+what kind of fish do you have?|que tipo de peixe você tem?|0.47809146328668717
+there are enough pears for everyone.|há peras suficientes para todo mundo.|0.041170726645925276
+i've never learned to play a musical instrument.|eu nunca aprendi a tocar um instrumento musical.|0.4148813954421079
+i need to cook the beef.|eu preciso cozinhar a carne bovina.|0.0650608934090189
+who do you visit?|quem você visita?|0.3158735642335855
+it took me an hour and a half to get home.|demorei uma hora e meia para chegar em casa.|0.020743733006681937
+those shoes are made in italy.|aqueles sapatos são feitos na itália.|0.17745426160357308
+what is he wearing today?|o que ele está vestindo hoje?|0.47680967401884006
+i will introduce you to my girlfriend.|eu vou apresentar você para minha namorada.|0.03471350682866807
+these are the books that i finished.|estes são os livros que eu terminei.|0.24746307236859721
+what does your mom look like?|como sua mãe se parece?|0.17046804010117042
+they took care of the baby.|eles cuidaram do bebê.|0.17843235875741698
+click in the box.|clique na caixa.|0.6688316059138116
+the situation is worse than we thought.|a situação é pior do que nós pensamos.|0.07800477202868206
+this price is for children five and over.|este preço é para crianças de cinco anos ou mais.|0.010617317976206922
+the girl always wants to win.|a menina sempre quer vencer.|0.15094682018628053
+we generally eat fish on friday.|nós geralmente comemos peixe na sexta-feira.|0.04461569745241975
+the burgers are fantastic!|os hambúrgueres estão fantásticos!|0.3622438568480087

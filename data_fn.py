@@ -85,7 +85,6 @@ def create_testing_dataset(dataset_path):
     
     modified_dataset = pd.DataFrame(None,index=range(lines.shape[0]),columns=['promt','translation','weights'], dtype='U' )
 
-    i = 0
     j = 0
     for line in lines.itertuples(index=False,name=None):
         if line[0].startswith('prompt_'):
@@ -95,12 +94,32 @@ def create_testing_dataset(dataset_path):
             modified_dataset.iat[j,1] = line[0]
             modified_dataset.iat[j,2] = line[1]
             j += 1
-        i += 1
 
     
     return modified_dataset.dropna(0)
 
 
+
+# Creates dev or test datasets with only the best translation.
+# dataset_path: the directory where the raw data is.
+def create_testing_dataset_best(dataset_path):
+    with open(dataset_path,'r',encoding="utf-8") as f:
+        lines = pd.read_table(f,delimiter='|', dtype='U',header=None)
+    
+    modified_dataset = pd.DataFrame(None,index=range(lines.shape[0]),columns=['promt','translation','weights'], dtype='U' )
+
+    i = 0
+    j = 0
+    for line in lines.itertuples(index=False,name=None):
+        if line[0].startswith('prompt_'):
+            modified_dataset.iat[j,0] = line[1]
+            modified_dataset.iat[j,1] = lines.iat[i+1,0]
+            modified_dataset.iat[j,2] = lines.iat[i+1,1]
+            j += 1
+        i += 1
+
+    
+    return modified_dataset.dropna(0)
 
 
 # Creates Amazon's Answers.
@@ -251,6 +270,13 @@ def convert_to_gold(dataset_path,reference_path,head):
 # output = create_testing_dataset('CMPUT566-MOTH/datasets/staple-2020/en_pt/dev.en_pt.2020-02-20.gold.txt')
 
 # output.to_csv('CMPUT566-MOTH/datasets/testing_datasets/dev.txt',sep="|",encoding='utf-8',index=False,header=False)
+
+
+# Save Dev Datasets (Best Translation only)
+
+output = create_testing_dataset_best('CMPUT566-MOTH/datasets/staple-2020/en_pt/dev.en_pt.2020-02-20.gold.txt')
+
+output.to_csv('CMPUT566-MOTH/datasets/testing_datasets/dev_best.txt',sep="|",encoding='utf-8',index=False,header=False)
 
 
 # Save Amazon Basline Dataset
