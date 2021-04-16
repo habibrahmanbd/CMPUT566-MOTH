@@ -195,7 +195,7 @@ def convert_to_gold(dataset_path,reference_path,head):
     for reference in reference_data.itertuples(index=False,name=None):
         if reference[0].startswith('prompt_'):
             if promt_found:
-                gold_dataset.iat[i,0] = portu.strip()
+                gold_dataset.iat[i,0] = portu # .strip()
                 gold_dataset.iat[i+1,0] = ''
                 i += 2
                 promt_found = False
@@ -215,11 +215,8 @@ def convert_to_gold(dataset_path,reference_path,head):
 
             promt_id = reference[0]
             promt = reference[1]
-        else:
-            if cleaning_punctuation_and_uppercase(portu) == cleaning_punctuation_and_uppercase(reference[0]):
-                weight = reference[1]
     
-    gold_dataset.iat[i,0] = portu
+    gold_dataset.iat[i,0] = portu # .strip()
     gold_dataset.iat[i+1,0] = ''
 
 
@@ -427,6 +424,6 @@ def no_accent_gold(dataset_path):
 
 # Create Test Dataset with no Accents
 
-output = no_accent_gold('CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt')
+# output = no_accent_gold('CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt')
 
-np.savetxt('CMPUT566-MOTH/datasets/gold_transformer/test.txt', output, fmt='%s',encoding='utf-8')
+# np.savetxt('CMPUT566-MOTH/datasets/gold_transformer/test.txt', output, fmt='%s',encoding='utf-8')
