@@ -110,3 +110,41 @@ python3 staple_2020_scorer.py --goldfile ../CMPUT566-MOTH/datasets/staple-2020/e
 
 ### Model with Transformer
 
+#### Step 1: Create Modified Datasets
+    ```
+    python3 create_modified_datasets.py
+    ```
+#### Step 2: 
+
+#### Step 3:
+
+#### Step 4: Run Command for Weighted F1 Macro of RNN
+
+```
+git clone https://github.com/duolingo/duolingo-sharedtask-2020.git
+cd duolingo-sharedtask-2020
+```
+*Weighted Score for Dataset 1*
+```
+python3 staple_2020_scorer.py --goldfile ../CMPUT566-MOTH/datasets/gold_transformer/test.txt  --predfile ../CMPUT566-MOTH/datasets/gold_transformer/dataset1_trial1.txt
+
+python3 staple_2020_scorer.py --goldfile ../CMPUT566-MOTH/datasets/gold_transformer/test.txt  --predfile ../CMPUT566-MOTH/datasets/gold_transformer/dataset1_trial2.txt
+
+python3 staple_2020_scorer.py --goldfile ../CMPUT566-MOTH/datasets/gold_transformer/test.txt  --predfile ../CMPUT566-MOTH/datasets/gold_transformer/dataset1_trial3.txt
+```
+*Weighted Score for Dataset 2*
+```
+python3 staple_2020_scorer.py --goldfile ../CMPUT566-MOTH/datasets/gold_transformer/test.txt  --predfile ../CMPUT566-MOTH/datasets/gold_transformer/dataset2_trial1.txt
+
+python3 staple_2020_scorer.py --goldfile ../CMPUT566-MOTH/datasets/gold_transformer/test.txt  --predfile ../CMPUT566-MOTH/datasets/gold_transformer/dataset2_trial2.txt
+
+python3 staple_2020_scorer.py --goldfile ../CMPUT566-MOTH/datasets/gold_transformer/test.txt  --predfile ../CMPUT566-MOTH/datasets/gold_transformer/dataset2_trial3.txt
+```
+*Weighted Score for Dataset 3*
+```
+python3 staple_2020_scorer.py --goldfile ../CMPUT566-MOTH/datasets/gold_transformer/test.txt  --predfile ../CMPUT566-MOTH/datasets/gold_transformer/dataset3_trial1.txt
+
+python3 staple_2020_scorer.py --goldfile ../CMPUT566-MOTH/datasets/gold_transformer/test.txt  --predfile ../CMPUT566-MOTH/datasets/gold_transformer/dataset3_trial2.txt
+
+python3 staple_2020_scorer.py --goldfile ../CMPUT566-MOTH/datasets/gold_transformer/test.txt  --predfile ../CMPUT566-MOTH/datasets/gold_transformer/dataset3_trial3.txt
+```
