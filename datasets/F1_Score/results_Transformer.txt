@@ -1,0 +1,95 @@
+dataset1 _ Trail 1:
+------------------
+Precision:         4.72%
+Recall:            0.04%
+Weighted Recall:   1.43%
+Micro F1:          0.07%
+Macro F1:          0.20%
+Weighted Micro F1: 2.19%
+Weighted Macro F1: 1.98%
+
+dataset1 _ trail 2:
+------------------
+Precision:         2.36%
+Recall:            0.02%
+Weighted Recall:   0.77%
+Micro F1:          0.04%
+Macro F1:          0.13%
+Weighted Micro F1: 1.16%
+Weighted Macro F1: 1.01%
+
+dataset1 _ trial 3:
+------------------
+Precision:         4.25%
+Recall:            0.03%
+Weighted Recall:   1.71%
+Micro F1:          0.06%
+Macro F1:          0.17%
+Weighted Micro F1: 2.44%
+Weighted Macro F1: 2.31%
+
+dataset2 _ trial 1:
+------------------
+
+Precision:         0.95%
+Recall:            0.01%
+Weighted Recall:   0.05%
+Micro F1:          0.01%
+Macro F1:          0.04%
+Weighted Micro F1: 0.09%
+Weighted Macro F1: 0.07%
+
+dataset2 _ trial 2:
+------------------
+
+Precision:         1.19%
+Recall:            0.01%
+Weighted Recall:   0.05%
+Micro F1:          0.02%
+Macro F1:          0.06%
+Weighted Micro F1: 0.09%
+Weighted Macro F1: 0.07%
+
+dataset2 _ Trail 2:
+------------------
+
+Precision:         0.72%
+Recall:            0.01%
+Weighted Recall:   0.01%
+Micro F1:          0.01%
+Macro F1:          0.03%
+Weighted Micro F1: 0.02%
+Weighted Macro F1: 0.01%
+
+dataset3 _ trail 1:
+------------------
+
+Precision:         9.46%
+Recall:            0.07%
+Weighted Recall:   1.66%
+Micro F1:          0.14%
+Macro F1:          0.34%
+Weighted Micro F1: 2.83%
+Weighted Macro F1: 2.51%
+
+dataset3 _ Trial 2:
+------------------
+
+Precision:         9.22%
+Recall:            0.07%
+Weighted Recall:   1.98%
+Micro F1:          0.14%
+Macro F1:          0.39%
+Weighted Micro F1: 3.27%
+Weighted Macro F1: 3.21%
+
+dataset3 _ trail 3:
+-------------------
+Precision:         8.98%
+Recall:            0.07%
+Weighted Recall:   1.80%
+Micro F1:          0.13%
+Macro F1:          0.44%
+Weighted Micro F1: 3.00%
+Weighted Macro F1: 2.76%
+
