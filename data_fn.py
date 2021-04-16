@@ -338,6 +338,12 @@ def no_accent_gold(dataset_path):
 # output.to_csv('CMPUT566-MOTH/datasets/baseline_datasets/worst.txt',sep="|",encoding='utf-8',index=False,header=False)
 
 
+# Save Gold Version of Worst Basline Dataset
+
+# output = convert_to_gold('CMPUT566-MOTH/datasets/baseline_datasets/worst.txt','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
+
+# np.savetxt('CMPUT566-MOTH/datasets/baseline_datasets/worst_gold.txt', output, fmt='%s',encoding='utf-8')
+
 
 
 # Save Gold version of the Transformer's Predictions Datasets
