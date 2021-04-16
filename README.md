@@ -82,13 +82,13 @@ This repository contains the artifacts of TEAM - MOTH for the course project "CM
 ### Model with RNN
 
 #### Step 1: Create Modified Datasets
-    ```
-    python3 create_modified_datasets.py
-    ```
+```
+python3 create_modified_datasets.py
+```
 #### Step 2: Run Script for RNN Result in Bleu Score
-    ```
-    ./RNN.sh
-    ```
+```
+./RNN.sh
+```
 #### Step 3: Run Command for Weighted F1 Macro of RNN
 
 ```
@@ -111,17 +111,17 @@ python3 staple_2020_scorer.py --goldfile ../CMPUT566-MOTH/datasets/staple-2020/e
 ### Model with Transformer
 
 #### Step 1: Create Modified Datasets
-    ```
-    python3 create_modified_datasets.py
-    ```
+```
+python3 create_modified_datasets.py
+```
 #### Step 2: Create Training Checkpoints
-    ```
-    python3 cmput566_eng_por_translation_transformer_model_dataset123.py
-    ```
+```
+python3 cmput566_eng_por_translation_transformer_model_dataset123.py
+```
 #### Step 3: Create Dataset for Bleu & F1 score
-    ```
-    python3 restore_checkpoints_dataset123.py
-    ````
+```
+python3 restore_checkpoints_dataset123.py
+````
 #### Step 4: Run Command for Weighted F1 Macro of RNN
 
 ```
