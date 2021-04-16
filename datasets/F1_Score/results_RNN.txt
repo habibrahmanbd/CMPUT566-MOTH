@@ -10,4 +10,30 @@ Weighted Micro F1: 24.13%
 Weighted Macro F1: 21.30%
 
 
+================================Dataset 1 =============================================
+Precision:         0.00%
+Recall:            0.00%
+Weighted Recall:   0.00%
+Micro F1:          0.00%
+Macro F1:          0.00%
+Weighted Micro F1: 0.00%
+Weighted Macro F1: 0.00%
 
+================================Dataset 2==============================================
+Precision:         0.00%
+Recall:            0.00%
+Weighted Recall:   0.00%
+Micro F1:          0.00%
+Macro F1:          0.00%
+Weighted Micro F1: 0.00%
+Weighted Macro F1: 0.00%
+
+
+=================================Dataset 3 ============================================
+Precision:         0.80%
+Recall:            0.01%
+Weighted Recall:   0.32%
+Micro F1:          0.01%
+Macro F1:          0.03%
+Weighted Micro F1: 0.46%
+Weighted Macro F1: 0.42%
