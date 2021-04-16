@@ -114,10 +114,14 @@ python3 staple_2020_scorer.py --goldfile ../CMPUT566-MOTH/datasets/staple-2020/e
     ```
     python3 create_modified_datasets.py
     ```
-#### Step 2: 
-
-#### Step 3:
-
+#### Step 2: Create Training Checkpoints
+    ```
+    python3 cmput566_eng_por_translation_transformer_model_dataset123.py
+    ```
+#### Step 3: Create Dataset for Bleu & F1 score
+    ```
+    python3 restore_checkpoints_dataset123.py
+    ````
 #### Step 4: Run Command for Weighted F1 Macro of RNN
 
 ```
@@ -148,3 +152,5 @@ python3 staple_2020_scorer.py --goldfile ../CMPUT566-MOTH/datasets/gold_transfor
 
 python3 staple_2020_scorer.py --goldfile ../CMPUT566-MOTH/datasets/gold_transformer/test.txt  --predfile ../CMPUT566-MOTH/datasets/gold_transformer/dataset3_trial3.txt
 ```
+
+#### Transformer Codes are available to run in Google Colab, Code: https://drive.google.com/drive/folders/1nv0kY3KEnn3eh_SJok21bZE9CLZF9C_E?usp=sharing

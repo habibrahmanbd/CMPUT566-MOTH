@@ -1,0 +1,9 @@
+There are 500 keys in gold and 500 keys in pred.
+All predicted keys are in the gold. WELL DONE.
+Precision:         100.00%
+Recall:            0.74%
+Weighted Recall:   0.76%
+Micro F1:          1.47%
+Macro F1:          3.85%
+Weighted Micro F1: 1.51%
+Weighted Macro F1: 1.50%
