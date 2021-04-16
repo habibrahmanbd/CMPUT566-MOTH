@@ -9,6 +9,7 @@ This repository contains the artifacts of TEAM - MOTH for the course project "CM
  - tensorflow
  - keras
  - GPU
+ - Linux Machine
 
  ````shell
  # Quick Installation steps
@@ -88,7 +89,7 @@ This repository contains the artifacts of TEAM - MOTH for the course project "CM
     ```
     ./RNN.sh
     ```
-#### Step 4: Run Command for Weighted F1 Macro of RNN
+#### Step 3: Run Command for Weighted F1 Macro of RNN
 
 ```
 git clone https://github.com/duolingo/duolingo-sharedtask-2020.git
