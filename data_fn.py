@@ -7,6 +7,8 @@ import numpy as np
 import pandas as pd
 import string
 from random import choices
+import unicodedata
+import re
 
 
 #######################################################################
@@ -225,10 +227,55 @@ def convert_to_gold(dataset_path,reference_path,head):
     return gold_dataset.drop([0,1,2])
 
 
+# Converts the unicode file to ascii
+def unicode_to_ascii(s):
+    return ''.join(c for c in unicodedata.normalize('NFD', s)
+        if unicodedata.category(c) != 'Mn')
+
+
+def preprocess_sentence(w):
+    w = unicode_to_ascii(w.lower().strip())
+
+    # creating a space between a word and the punctuation following it
+    # eg: "he is a boy." => "he is a boy ."
+    # Reference:- https://stackoverflow.com/questions/3645931/python-padding-punctuation-with-white-spaces-keeping-punctuation
+    w = re.sub(r"([?.!,¿])", r" \1 ", w)
+    w = re.sub(r'[" "]+', " ", w)
+
+    # replacing everything with space except (a-z, A-Z, ".", "?", "!", ",")
+    w = re.sub(r"[^a-zA-Z?!,¿]+", " ", w)
+
+    w = w.strip()
+    return w
+
+
+# Create a no accent gold version of the data
+# dataset_path: the directory where the raw data is.
+def no_accent_gold(dataset_path):
+    with open(dataset_path,'r',encoding="utf-8") as f:
+        dataset = pd.read_table(f,delimiter='|', dtype='U',header=None)
+    
+    no_accent_dataset = pd.DataFrame('',index=range(dataset.shape[0]+500), columns=['line'], dtype='U')
+
+    i = 0
+    for data in dataset.itertuples(index=False,name=None):
+        if data[0].startswith('prompt_'):
+            no_accent_dataset.iat[i,0] = ''
+            no_accent_dataset.iat[i+1,0] = data[0] + '|' + data[1]
+            i += 2
+        else:
+            no_accent_dataset.iat[i,0] = preprocess_sentence(data[0]) + '|' + data[1]
+            i += 1
+
+
+    return no_accent_dataset
+
+
+
 #######################################################################
 # Test code
 
-# output = convert_to_gold('CMPUT566-MOTH/datasets/Transformer_Result/result_dataset_1_trial1.csv','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
+# output = no_accent_gold('CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt')
 
 # print(output)
 # print(output.shape)
@@ -274,9 +321,9 @@ def convert_to_gold(dataset_path,reference_path,head):
 
 # Save Dev Datasets (Best Translation only)
 
-output = create_testing_dataset_best('CMPUT566-MOTH/datasets/staple-2020/en_pt/dev.en_pt.2020-02-20.gold.txt')
+# output = create_testing_dataset_best('CMPUT566-MOTH/datasets/staple-2020/en_pt/dev.en_pt.2020-02-20.gold.txt')
 
-output.to_csv('CMPUT566-MOTH/datasets/testing_datasets/dev_best.txt',sep="|",encoding='utf-8',index=False,header=False)
+# output.to_csv('CMPUT566-MOTH/datasets/testing_datasets/dev_best.txt',sep="|",encoding='utf-8',index=False,header=False)
 
 
 # Save Amazon Basline Dataset
@@ -361,3 +408,25 @@ output.to_csv('CMPUT566-MOTH/datasets/testing_datasets/dev_best.txt',sep="|",enc
 # output = convert_to_gold('CMPUT566-MOTH/datasets/RNN_Result/predict.maisha3.updated.txt','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
 
 # np.savetxt('CMPUT566-MOTH/datasets/gold_rnn/dataset3_trial1_m.txt', output, fmt='%s',encoding='utf-8')
+
+
+# output = convert_to_gold('CMPUT566-MOTH/datasets/RNN_Result/predict.maisha1.gold_format.txt','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
+
+# np.savetxt('CMPUT566-MOTH/datasets/gold_rnn/dataset1_m.txt', output, fmt='%s',encoding='utf-8')
+
+# output = convert_to_gold('CMPUT566-MOTH/datasets/RNN_Result/predict.maisha2.gold_format.txt','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
+
+# np.savetxt('CMPUT566-MOTH/datasets/gold_rnn/dataset2_m.txt', output, fmt='%s',encoding='utf-8')
+
+# output = convert_to_gold('CMPUT566-MOTH/datasets/RNN_Result/predict.maisha3.gold_format.txt','CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt',0)
+
+# np.savetxt('CMPUT566-MOTH/datasets/gold_rnn/dataset3_m.txt', output, fmt='%s',encoding='utf-8')
+
+
+
+
+# Create Test Dataset with no Accents
+
+output = no_accent_gold('CMPUT566-MOTH/datasets/staple-2020/en_pt/test.en_pt.2020-02-20.gold.txt')
+
+np.savetxt('CMPUT566-MOTH/datasets/gold_transformer/test.txt', output, fmt='%s',encoding='utf-8')

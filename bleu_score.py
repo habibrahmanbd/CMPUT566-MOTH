@@ -84,15 +84,22 @@ def remove_duplicates(dataset_path):
 
 # RNN's bleu score
 
-eng, portu = remove_duplicates('CMPUT566-MOTH/datasets/RNN_Result/predict.habib1.updated.txt')
+eng, portu = remove_duplicates('CMPUT566-MOTH/datasets/RNN_Result/predict.maisha1.gold_format.txt')
 
 bleu_score = calculate_bleu_score(eng,portu,'CMPUT566-MOTH/datasets/testing_datasets/test.txt')
 
 print("Dataset 1's Bleu Score (percentage):",bleu_score*100)
 
 
-eng, portu = remove_duplicates('CMPUT566-MOTH/datasets/RNN_Result/predict.habib2.updated.txt')
+eng, portu = remove_duplicates('CMPUT566-MOTH/datasets/RNN_Result/predict.maisha2.gold_format.txt')
 
 bleu_score = calculate_bleu_score(eng,portu,'CMPUT566-MOTH/datasets/testing_datasets/test.txt')
 
 print("Dataset 2's Bleu Score (percentage):",bleu_score*100)
+
+
+eng, portu = remove_duplicates('CMPUT566-MOTH/datasets/RNN_Result/predict.maisha3.gold_format.txt')
+
+bleu_score = calculate_bleu_score(eng,portu,'CMPUT566-MOTH/datasets/testing_datasets/test.txt')
+
+print("Dataset 3's Bleu Score (percentage):",bleu_score*100)
