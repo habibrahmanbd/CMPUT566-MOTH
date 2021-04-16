@@ -37,17 +37,17 @@ def cleaning_punctuation_and_uppercase(sentence_list):
 
 for i in range(1, 4):
 
-    with open("datasets/RNN_Result/predict.maisha"+str(i)+".final.txt", "r") as f:
+    with open("tokenized/Portuguese/predict.d"+str(i)+".final.txt", "r") as f:
         data = f.read()
         print(len(data))
         f.close()
 
 
-    data = data.replace('[', '')
-    data = data.replace(']', '')
-    data = data.replace('\'', '')
+    #data = data.replace('[', '')
+    #data = data.replace(']', '')
+    #data = data.replace('\'', '')
 
-    data = data.split(',')
+    #data = data.split(',')
 
 
     test_data = read_dataset('datasets/testing_datasets/test.txt')
@@ -59,7 +59,7 @@ for i in range(1, 4):
     print(len(test_data_eng))
     print(len(data))
 
-    with open("datasets/RNN_Result/predict.maisha"+str(i)+".gold_format.txt", "w") as f:
+    with open("datasets/RNN_Result/predict.d"+str(i)+".gold_format.txt", "w") as f:
         for i in range(len(data)):
             print(test_data_eng[i]+'|'+data[i], file=f)
         f.close()
