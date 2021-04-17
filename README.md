@@ -60,8 +60,6 @@ This repository contains the artifacts of TEAM - MOTH for the course project "CM
 ├── images                                                                       # Necessary Images of this Projects
 │   ├── Figure_1.png
 ├── RNN.sh                                                                       # Run RNN to Generate Final Result
-├── Sample RNN model.txt
-├── seq-to-seq.ipynb
 ├── text_processing.py                                                           # Text Processing, Model Training, Output Prediction, etc
 ├── tokenized                                                                    # Dump Tokenize Data, Results
 │   ├── dump
