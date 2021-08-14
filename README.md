@@ -1,4 +1,4 @@
-## CMPUT566-MOTH  - English to Portugese Translation
+## CMPUT566-MOTH  - Data Argumentation in Neural Machine Translation: A Case-study for English to Portugese Translation
 This repository contains the artifacts of TEAM - MOTH for the course project "CMPUT566 - Intro. to ML".
 ### Graduate Students
  - [Habibur Rahman](https://habibrahman.me)
