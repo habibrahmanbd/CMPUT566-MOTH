@@ -1,5 +1,7 @@
 ## Data Argumentation in Neural Machine Translation: A Case-study for English to Portugese Translation
-This repository contains the artifacts of TEAM - MOTH for the course project "CMPUT566 - Intro. to ML".
+For this project, we have tested several data augmentation for better training, and hence better translation results. We have translated English sentences into Portuguese. Input was a single english sentence, and the output was a single Portuguese sentence that was the translation of the English sentence.
+
+The models that we used for this project were a Recurrent Neural Network with Long Short-Term Memory (LSTM) and a Transformer.
 ### Graduate Students
  - [Habibur Rahman](https://habibrahman.me)
  - [Omar Al-Shamali]()
