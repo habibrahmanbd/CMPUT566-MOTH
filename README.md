@@ -1,4 +1,4 @@
-## Data Argumentation in Neural Machine Translation: A Case-study for English to Portuguese Translation
+## Data Augmentation in Neural Machine Translation: A Case-study for English to Portuguese Translation
 We have tested several data augmentation for better training for this project, and hence better translation results. We have translated English sentences into Portuguese. The input was a single English sentence, and the output was a single Portuguese sentence that translated the English sentence.
 
 ### Graduate Students
